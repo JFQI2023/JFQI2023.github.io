@@ -7,7 +7,7 @@ nav: true
 nav_order: 5
 ---
 
-The table below is not the final version but a tentantive of program. Soon all the talk titles and abstracts will also be available here.
+The table below is a tentative version of the program. Soon all the talk titles and abstracts will also be available here.
 
 
 | Time  |Wednesday  |Thursday|Friday  |

@@ -12,7 +12,7 @@ social: false  # includes social icons at the bottom of the page
 
 The Japanese-French Quantum Information 2023 workshop is organised and funded by the [Japanese-French Laboratory for Informatics](https://jfli.cnrs.fr) (JFLI),  and International Research Laboratory (IRL 3527) between two French institutions ([CNRS](https://www.cnrs.fr/en) and [Sorbonne University](https://www.sorbonne-universite.fr/)) and three Japanese institutions ([NII](https://www.nii.ac.jp/en/), [The University of Tokyo](https://www.u-tokyo.ac.jp/en/) and [Keio University](https://www.keio.ac.jp/en/)). 
 
-This workshop will take place in Tokyo on the 13th, 14th, 15th of December 2023, and a main goal of this is to maintain and strength the collaboration between quantum information researchers which are based in Japan and France.
+This workshop will take place in Tokyo on the 13th, 14th, 15th of December 2023, and its main goal is to maintain and to strengthen the collaboration between quantum information researchers which are based in Japan and France.
 
 
 Organiser: [Marco Túlio Quintino](https://mtcq.github.io/) <br>
