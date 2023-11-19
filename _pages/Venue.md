@@ -12,10 +12,10 @@ The first two days of the workshop (13/12 and 14/12) will take place in The Univ
 
 The Hongo Campus of The University of Tokyo and NII are around 30min by foot from each other.
 
-The University of Tokyo can be easily accessed via the train stations:
-- Hongo Sanchome (line Marunouchi Oedo line)
-- Nezu (Chiyoda line)
-- Todai Mae
+The University of Tokyo can be easily accessed via the metro stations:
+- Hongo Sanchome (Marunouchi Line and Oedo Line)
+- Nezu (Chiyoda Line)
+- Todai Mae (Namboku Line)
 
-The NII can be easily access via the stations
+The NII can be easily accessed via the metro station
 - Jimbocho (Shinjuku Line, Hanzomon Line, and Mita line)
