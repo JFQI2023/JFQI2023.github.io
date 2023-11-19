@@ -15,8 +15,8 @@ The Japanese-French Quantum Information 2023 workshop is organised and funded by
 This workshop will take place in Tokyo from Wednesday 13th to Friday 15th of December of 2023, and its main goal is to maintain and strengthen the collaboration between quantum information researchers based in Japan and France.
 
 
-Organiser: [Marco Túlio Quintino](https://mtcq.github.io/) <br>
-Co-Organisers: [Philippe Codognet](http://www-poleia.lip6.fr/~codognet/), [Akihito Soeda](https://www.nii.ac.jp/en/faculty/informatics/soeda_akihito/) <br>
+Organisation and website: [Marco Túlio Quintino](https://mtcq.github.io/) <br>
+Co-Organisation: [Philippe Codognet](http://www-poleia.lip6.fr/~codognet/), [Akihito Soeda](https://www.nii.ac.jp/en/faculty/informatics/soeda_akihito/) <br>
 Local support:  [Akihito Soeda](https://www.nii.ac.jp/en/faculty/informatics/soeda_akihito/), [Mio Murao](http://www.s.u-tokyo.ac.jp/en/people/murao_mio/) 
 
  <br>  
