@@ -27,6 +27,7 @@ nav_order: 5
 <br>[Kae Nemoto](https://qis1.ex.nii.ac.jp/quantumCenter/p_nemoto.html) - NII, OIST, JFLI
 <br>[Ion Nechita](https://ion.nechita.net/about/) - CNRS, Laboratoire de Physique Théorique, Toulouse
 <br>[Tatsuki Odake](https://www.eve.phys.s.u-tokyo.ac.jp/php/members.php)  - The University of Tokyo, Graduate School of Science
+<br>[Pierre Pocreau](http://2007-2020.liglab.fr/fr/util/annuaire5b45.html?prenom=Pierre&nom=POCREAU) - University Grenoble Alpes, CNRS, Grenoble INP, LIG
 <br>[Marco Túlio Quintino](https://mtcq.github.io/) - LIP6/Sorbonne University/CNRS, QI group
 <br>[Akihito Soeda](https://www.nii.ac.jp/en/faculty/informatics/soeda_akihito/) - NII
 <br>[Ivan Šupić](https://www.lip6.fr/actualite/personnes-fiche.php?ident=D2431) - LIP6/Sorbonne University/CNRS, QI group

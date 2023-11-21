@@ -12,6 +12,7 @@ The table below is a tentative version of the program. Soon all the talk titles 
 
 | Time  |Wednesday  |Thursday|Friday  |
 |:----|:------|:------|:------|
+|09:30 – 10 :00|**Opening**|	--- |---|
 |10:00 – 10 :30|	TALK 1|	TALK 9 |	TALK 17|
 |10:30 – 11 :00|	TALK 2|	TALK 10|	TALK 18|
 |11:00 – 11 :30|	**BREAK** | **BREAK**  |**BREAK**  |	
