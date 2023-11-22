@@ -25,5 +25,3 @@ The table below is a tentative version of the program. Soon all the talk titles 
 |16:30 – 17 :00|	TALK 7|	TALK 15|	TALK 23|
 |16:30 – 17 :00|	TALK 8|	TALK 16|	TALK 24|
 
-
-List of titles and abstracts:
