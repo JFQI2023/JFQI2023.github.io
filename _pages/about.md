@@ -4,7 +4,7 @@ title: about
 permalink: /
 subtitle: Japanese-French Quantum Information 2023 workshop (13th to 15th December 2023)
 
-news: false  # includes a list of news items
+news: false  #  includes a list of news items
 latest_posts: false  # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
