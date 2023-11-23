@@ -12,6 +12,7 @@ nav_order: 5
 <br>[Vanessa Brzić](https://www.lip6.fr/actualite/personnes-fiche.php?ident=D2670) - LIP6/Sorbonne University/CNRS, QI group
 <br>[Cyril Branciard](https://neel.cnrs.fr/les-chercheurs-et-techniciens/branciard-cyril) - CNRS/Néel Institute, NPSC group
 <br>[Mina Doosti](https://minadoosti.github.io/) - University of Edinburgh, School of Informatics
+<br>[Paolo Fittipaldi](https://qi.lip6.fr/people/paolo-fittipaldi/) - LIP6/Sorbonne University/CNRS, QI group
 <br>[Tim Forrer](https://www.eve.phys.s.u-tokyo.ac.jp/php/members.php) - The University of Tokyo, Graduate School of Science
 <br>[Frédéric Grosshans](https://www.lip6.fr/actualite/personnes-fiche.php?ident=P1445) - LIP6/Sorbonne University/CNRS, QI group
 <br>[Michal Hajdusek](https://scholar.google.com.sg/citations?user=8DgauUcAAAAJ&hl=en) - Keio University
