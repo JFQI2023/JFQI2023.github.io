@@ -4,7 +4,7 @@ permalink: /list_of_participants/
 title: list of participants
 description: List of confirmed participants
 nav: true
-nav_order: 5
+nav_order: 3
 ---
 
 [Alastair Abbott](https://alastair-abbott.github.io/) - Inria Grenoble, QINFO group
