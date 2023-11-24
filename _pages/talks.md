@@ -9,13 +9,19 @@ nav_order: 5
 
 Click on the names to access the abstrct.
 
+
 <details>
-<summary><b> Tatsuki Odake</b>  <br>Title: Higher-order quantum transformations of Hamiltonian dynamics </summary>
+<summary><b> Paolo Fittipaldi</b>  <br>Title: </summary>
 <br>
 Abstract: 
-We present a quantum algorithm to achieve higher-order transformations of Hamiltonian dynamics. Namely, the algorithm takes as input a finite number of queries to a black-box seed Hamiltonian dynamics to simulate a desired Hamiltonian. Our algorithm efficiently simulates linear transformations of any seed Hamiltonian with a bounded energy range consisting of a polynomial number of terms in system size, making use of only controlled-Pauli gates and time-correlated randomness. This algorithm is an instance of quantum functional programming, where the desired function is specified as a concatenation of higher-order quantum transformations. By way of example, we demonstrate the simulation of negative time-evolution and perform a Hamiltonian learning task.<br><br>
-arXiv link: <a href="https://arxiv.org/abs/2303.09788">https://arxiv.org/abs/2303.09788</a>
 </details>
+<details>
+<summary><b> Hiroshi Imai</b>  <br>Title: </summary>
+<br>
+Abstract: 
+</details>
+
+
 
 
 <details>
@@ -25,6 +31,25 @@ Abstract: We study the question of how highly entangled two particles can be whe
 arXiv link: <a href="https://arXiv:2309.16655">https://arXiv:2309.16655</a>
 </details>
 
+<details>
+<summary><b> Tatsuki Odake</b>  <br>Title: Higher-order quantum transformations of Hamiltonian dynamics </summary>
+<br>
+Abstract: 
+We present a quantum algorithm to achieve higher-order transformations of Hamiltonian dynamics. Namely, the algorithm takes as input a finite number of queries to a black-box seed Hamiltonian dynamics to simulate a desired Hamiltonian. Our algorithm efficiently simulates linear transformations of any seed Hamiltonian with a bounded energy range consisting of a polynomial number of terms in system size, making use of only controlled-Pauli gates and time-correlated randomness. This algorithm is an instance of quantum functional programming, where the desired function is specified as a concatenation of higher-order quantum transformations. By way of example, we demonstrate the simulation of negative time-evolution and perform a Hamiltonian learning task.<br><br>
+arXiv link: <a href="https://arxiv.org/abs/2303.09788">https://arxiv.org/abs/2303.09788</a>
+</details>
+
+<details>
+<summary> <b>Ivan Šupić</b> <br> Title: Quantum networks aid certification of quantum resources </summary>
+<br>
+Abstract: In this talk I will explain how quantum network architecture together with self-testing techniques can aid certification of various quantum resources. In particular, I will discuss device-independent protocols for universal entanglement certification, a self-testing result that can be applied to all pure entangled quantum states, and network-device-independent certification of causal nonseparability.
+</details>
+
+<details>
+<summary> <b>Vorapong Suppakitpaisarn</b> <br> Title: Utilizing Graph Sparsification for Pre-processing in Maxcut QUBO Solver </summary>
+<br>
+Abstract: We suggest employing graph sparsification as a pre-processing step for maxcut programs using the QUBO solver. Quantum(-inspired) algorithms are recognized for their potential efficiency in handling quadratic unconstrained binary optimization (QUBO). Given that maxcut is an NP-hard problem and can be readily expressed using QUBO, it stands out as an exemplary case to demonstrate the effectiveness of quantum(-inspired) QUBO approaches. Here, the non-zero count in the QUBO matrix corresponds to the graph's edge count. Given that many quantum(-inspired) solvers operate through cloud services, transmitting data for dense graphs can be costly. By introducing the graph sparsification method, we aim to mitigate these communication costs. Experimental results on classical, quantum-inspired, and quantum solvers indicate that this approach substantially reduces communication overheads and yields an objective value close to the optimal solution.
+</details>
 
 <details>
 <summary> <b> Philip Taranto</b>  <br> Title: Characterising & Controlling Complex Quantum Processes with Classical Memory </summary>

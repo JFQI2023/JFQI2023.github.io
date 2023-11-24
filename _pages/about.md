@@ -14,6 +14,8 @@ The Japanese-French Quantum Information 2023 workshop is organised by the [Japan
 
 This workshop will take place in Tokyo from Wednesday 13th to Friday 15th of December of 2023, and its main goal is to maintain and strengthen the collaboration between quantum information researchers based in Japan and France.
 
+Questions or comments regarding the workshop or this website might be address to [Marco.Quintino@lip6.fr](mailto:Marco.Quintino@lip6.fr).
+
 Organisation and website: [Marco Túlio Quintino](https://mtcq.github.io/) <br>
 Co-organisation: [Akihito Soeda](https://www.nii.ac.jp/en/faculty/informatics/soeda_akihito/) <br>
 Local support:  [Akihito Soeda](https://www.nii.ac.jp/en/faculty/informatics/soeda_akihito/), [Mio Murao](http://www.s.u-tokyo.ac.jp/en/people/murao_mio/) <br>

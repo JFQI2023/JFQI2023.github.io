@@ -32,6 +32,7 @@ nav_order: 5
 <br>[Marco Túlio Quintino](https://mtcq.github.io/) - LIP6/Sorbonne University/CNRS, QI group
 <br>[Akihito Soeda](https://www.nii.ac.jp/en/faculty/informatics/soeda_akihito/) - NII
 <br>[Ivan Šupić](https://www.lip6.fr/actualite/personnes-fiche.php?ident=D2431) - LIP6/Sorbonne University/CNRS, QI group
+<br>[Vorapong Suppakitpaisarn](http://vorapong-sup.net/) - The University of Tokyo, Department of Computer Science
 <br>[Philip Taranto](https://tarantophilip.github.io/) - The University of Tokyo, Graduate School of Science
 <br>[Yu Tanaka](https://www.eve.phys.s.u-tokyo.ac.jp/php/members.php)  - The University of Tokyo, Graduate School of Science
 <br>[Bo Yang](https://www.lip6.fr/actualite/personnes-fiche.php?ident=D2585) - LIP6/Sorbonne University/CNRS, QI group
