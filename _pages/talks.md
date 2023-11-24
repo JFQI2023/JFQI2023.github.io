@@ -28,7 +28,7 @@ Abstract:
 <summary> <b>Ion Nechita</b> <br> Title: Monogamy of highly symmetric states </summary>
 <br>
 Abstract: We study the question of how highly entangled two particles can be when also entangled in a similar way with other particles on the complete graph Kn for the case of Werner, isotropic and Brauer states. We formalize our question as a semidefinite program and then solve this optimization problem analytically, using tools from representation theory. In particular, we determine the exact maximum values p of the projection to the maximally entangled state and antisymmetric Werner state possible, solving long-standing open problems. This is joint work with Rene Allerstorfer, Matthias Christandl, Dmitry Grinko, Maris Ozols, Denis Rochette, and Philip Verduyn Lunel.<br><br>
-arXiv link: <a href="https://arXiv:2309.16655">https://arXiv:2309.16655</a>
+arXiv link: <a href="https://arxiv.org/abs/2309.16655">https://arxiv.org/abs/2309.16655</a>
 </details>
 
 <details>
