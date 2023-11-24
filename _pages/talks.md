@@ -11,10 +11,19 @@ Click on the names to access the abstrct.
 
 
 <details>
+<summary><b> Alastair Abbott</b>  <br>Title: Improving social welfare in non-cooperative games with different types of quantum resources</summary>
+<br>
+Abstract: We investigate what quantum advantages can be obtained in multipartite non-cooperative games by studying how different types of quantum resources can lead to new Nash equilibria and improve social welfare -- a measure of the quality of an equilibrium. Two different quantum settings are analysed: a first, in which players are given direct access to an entangled quantum state, and a second, which we introduce here, in which they are only given classical advice obtained from quantum devices. For a given game G, these two settings give rise to different equilibria characterised by the sets of equilibrium correlations Qcorr(G) and Q(G), respectively. We show that Q(G)⊆Qcorr(G), and by exploiting the self-testing property of some correlations, that the inclusion is strict for some games G. We make use of SDP optimisation techniques to study how these quantum resources can improve social welfare, obtaining upper and lower bounds on the social welfare reachable in each setting. We investigate, for several games, how the social welfare depends on the bias of the game and improve upon a separation that was previously obtained using pseudo-telepathic solutions.<br><br>
+arXiv link: <a href="https://arxiv.org/abs/2211.01687">https://arxiv.org/abs/2211.01687</a> 
+</details>
+
+<details>
 <summary><b> Paolo Fittipaldi</b>  <br>Title: </summary>
 <br>
 Abstract: 
 </details>
+
+
 <details>
 <summary><b> Hiroshi Imai</b>  <br>Title: </summary>
 <br>
@@ -37,6 +46,13 @@ arXiv link: <a href="https://arxiv.org/abs/2309.16655">https://arxiv.org/abs/230
 Abstract: 
 We present a quantum algorithm to achieve higher-order transformations of Hamiltonian dynamics. Namely, the algorithm takes as input a finite number of queries to a black-box seed Hamiltonian dynamics to simulate a desired Hamiltonian. Our algorithm efficiently simulates linear transformations of any seed Hamiltonian with a bounded energy range consisting of a polynomial number of terms in system size, making use of only controlled-Pauli gates and time-correlated randomness. This algorithm is an instance of quantum functional programming, where the desired function is specified as a concatenation of higher-order quantum transformations. By way of example, we demonstrate the simulation of negative time-evolution and perform a Hamiltonian learning task.<br><br>
 arXiv link: <a href="https://arxiv.org/abs/2303.09788">https://arxiv.org/abs/2303.09788</a>
+</details>
+
+<details>
+<summary><b> Pierre Pocreau</b>  <br>Title: </summary>
+<br>
+Abstract: 
+<br><br>
 </details>
 
 <details>
