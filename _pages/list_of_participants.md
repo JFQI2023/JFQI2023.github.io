@@ -16,10 +16,12 @@ nav_order: 3
 <br>[Tim Forrer](https://www.eve.phys.s.u-tokyo.ac.jp/php/members.php) - The University of Tokyo, Graduate School of Science
 <br>[Frédéric Grosshans](https://www.lip6.fr/actualite/personnes-fiche.php?ident=P1445) - LIP6/Sorbonne University/CNRS, QI group
 <br>[Michal Hajdusek](https://scholar.google.com.sg/citations?user=8DgauUcAAAAJ&hl=en) - Keio University
+<br>[Benedek Hauer](https://www-imai.is.s.u-tokyo.ac.jp/members.html) - The University of Tokyo, Department of Computer Science
 <br>[Yamasaki Hayata](https://www.hayatayamasaki.com/) - The University of Tokyo, Graduate School of Science
 <br>[Hiroshi Imai](https://www-imai.is.s.u-tokyo.ac.jp/members.html) - The University of Tokyo, Department of Computer Science
 <br>[Natsuto Isogai](https://www.eve.phys.s.u-tokyo.ac.jp/php/members.php) - The University of Tokyo, Graduate School of Science
 <br>[Elham Kashefi](https://www.lip6.fr/actualite/personnes-fiche.php?ident=P1427) - LIP6/Sorbonne University/CNRS, QI group
+<br>[Yoshiaki Kawase](https://www.u-tokyo.ac.jp/focus/en/people/k0001_05134.html) - The University of Tokyo, Information Science and Technology
 <br>[Hler Kristjansson](https://perimeterinstitute.ca/people/hler-kristjansson) - Perimeter Institute for Theoretical Physics
 <br>[Damian Markham](https://damianmarkham.weebly.com/) - LIP6/Sorbonne University/CNRS, QI group
 <br>[Rod Van Meter](https://web.sfc.keio.ac.jp/~rdv/) - Keio University, Faculty of Environment and Information Studies

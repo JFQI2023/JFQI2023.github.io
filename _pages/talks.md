@@ -25,12 +25,24 @@ Abstract:
 
 
 <details>
-<summary><b> Hiroshi Imai</b>  <br>Title: </summary>
+<summary><b> Hiroshi Imai</b>  <br>Title: Quantum Machine Learning and Optimization on Real Devices </summary>
 <br>
 Abstract: 
 </details>
 
 
+<details>
+<summary><b> Michal Hajdusek</b>  <br>Title: </summary>
+<br>
+Abstract: 
+</details>
+
+
+<details>
+<summary><b> Uta Isabella Meyer</b>  <br>Title: Non-locality from Wigner Negativity in Qudit Stabilizer States </summary>
+<br>
+Abstract: 
+</details>
 
 
 <details>
