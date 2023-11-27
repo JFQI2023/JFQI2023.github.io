@@ -8,16 +8,18 @@ nav_order: 3
 ---
 
 [Alastair Abbott](https://alastair-abbott.github.io/) - Inria Grenoble, QINFO group
+<br>[Hiroo Azuma](https://researchmap.jp/hirooazuma_quantph) - NII
 <br>[Jessica Bavaresco](https://jessicabavaresco.github.io/) - University of Geneva
+<br>[Adriano Barile](https://orcid.org/0000-0002-5122-0340) - NII
 <br>[Vanessa Brzić](https://www.lip6.fr/actualite/personnes-fiche.php?ident=D2670) - LIP6/Sorbonne University/CNRS, QI group
 <br>[Cyril Branciard](https://neel.cnrs.fr/les-chercheurs-et-techniciens/branciard-cyril) - CNRS/Néel Institute, NPSC group
 <br>[Mina Doosti](https://minadoosti.github.io/) - University of Edinburgh, School of Informatics
 <br>[Paolo Fittipaldi](https://qi.lip6.fr/people/paolo-fittipaldi/) - LIP6/Sorbonne University/CNRS, QI group
 <br>[Tim Forrer](https://www.eve.phys.s.u-tokyo.ac.jp/php/members.php) - The University of Tokyo, Graduate School of Science
 <br>[Frédéric Grosshans](https://www.lip6.fr/actualite/personnes-fiche.php?ident=P1445) - LIP6/Sorbonne University/CNRS, QI group
+<br>[Aoi Hayashi](https://qis1.ex.nii.ac.jp/quantumCenter/p_hayashi.html) - NII
 <br>[Michal Hajdusek](https://scholar.google.com.sg/citations?user=8DgauUcAAAAJ&hl=en) - Keio University
 <br>[Benedek Hauer](https://www-imai.is.s.u-tokyo.ac.jp/members.html) - The University of Tokyo, Department of Computer Science
-<br>[Yamasaki Hayata](https://www.hayatayamasaki.com/) - The University of Tokyo, Graduate School of Science
 <br>[Hiroshi Imai](https://www-imai.is.s.u-tokyo.ac.jp/members.html) - The University of Tokyo, Department of Computer Science
 <br>[Natsuto Isogai](https://www.eve.phys.s.u-tokyo.ac.jp/php/members.php) - The University of Tokyo, Graduate School of Science
 <br>[Elham Kashefi](https://www.lip6.fr/actualite/personnes-fiche.php?ident=P1427) - LIP6/Sorbonne University/CNRS, QI group
@@ -37,6 +39,7 @@ nav_order: 3
 <br>[Vorapong Suppakitpaisarn](http://vorapong-sup.net/) - The University of Tokyo, Department of Computer Science
 <br>[Philip Taranto](https://tarantophilip.github.io/) - The University of Tokyo, Graduate School of Science
 <br>[Yu Tanaka](https://www.eve.phys.s.u-tokyo.ac.jp/php/members.php)  - The University of Tokyo, Graduate School of Science
+<br>[Hayata Yamasaki](https://www.hayatayamasaki.com/) - The University of Tokyo, Graduate School of Science
 <br>[Bo Yang](https://www.lip6.fr/actualite/personnes-fiche.php?ident=D2585) - LIP6/Sorbonne University/CNRS, QI group
 <br>[Satoshi Yoshida](https://www.eve.phys.s.u-tokyo.ac.jp/php/members.php)  - The University of Tokyo, Graduate School of Science
 

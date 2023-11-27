@@ -17,10 +17,27 @@ Abstract: We investigate what quantum advantages can be obtained in multipartite
 arXiv link: <a href="https://arxiv.org/abs/2211.01687">https://arxiv.org/abs/2211.01687</a> 
 </details>
 
+
 <details>
-<summary><b> Paolo Fittipaldi</b>  <br>Title: </summary>
+<summary><b> Hiroo Azuma</b>  <br>Title: </summary>
 <br>
-Abstract: 
+Abstract:
+</details>
+
+<details>
+<summary><b> Adriano Barile</b>  <br>Title: </summary>
+<br>
+Abstract:
+</details>
+
+
+<details>
+<summary><b> Paolo Fittipaldi</b>  <br>Title: A Linear Algebraic Framework for Dynamic Scheduling Over Memory-Equipped Quantum Networks </summary>
+<br>
+Abstract: Quantum Internetworking is a recent field that promises numerous interesting applications, many of which require the distribution of entanglement between arbitrary pairs of users. In this context, a scheduling policy (i.e. a set of rules that, given some amount of information about the network’s state, provides the correct set of entanglement swapping operations to perform in order to satisfy user requests) is of paramount importance to simultaneously serve multiple pairs of users over complex network topologies.
+In this talk, the problem of scheduling in an arbitrary quantum network is presented in its general topology, multicommodity, loss-aware formulation. We introduce a novel linear algebraic framework that leverages quantum memory and demonstrate how it can be employed to derive a natural class of quadratic scheduling policies for quantum networks. We then illustrate how the framework aids in describing and benchmarking several scheduling policies, with different degrees of localization and information availability. Network performance results such as the average and total user demand are discussed to evaluate the capacity regions of the proposed policies, and to provide example of application of our tools to arbitrary scheduling policies over general quantum networks with topologies of various complexity.
+<br><br>
+arXiv link: <a href="https://arxiv.org/abs/2307.06009">https://arxiv.org/abs/2307.06009</a> 
 </details>
 
 
@@ -29,6 +46,13 @@ Abstract:
 <br>
 Abstract: 
 </details>
+
+<details>
+<summary><b> Aoi Hayashi</b>  <br>Title: </summary>
+<br>
+Abstract: 
+</details>
+
 
 
 <details>
@@ -61,10 +85,30 @@ arXiv link: <a href="https://arxiv.org/abs/2303.09788">https://arxiv.org/abs/230
 </details>
 
 <details>
-<summary><b> Pierre Pocreau</b>  <br>Title: </summary>
+<summary><b> Pierre Pocreau</b>  <br>Title: Quantum Query Complexity of Boolean Functions under Indefinite Causal Order </summary>
 <br>
-Abstract: 
+Abstract: The standard model of quantum circuits assumes operations are applied in a fixed sequential
+“causal” order. In recent years, the possibility of relaxing this constraint to obtain causally in-
+definite computations has received significant attention. The quantum switch, for example, uses
+a quantum system to coherently control the order of operations. Several ad hoc computational
+and information-theoretical advantages have been demonstrated, raising questions as to whether
+advantages can be obtained in a more unified complexity theoretic framework. In this paper, we
+approach this problem by studying the query complexity of Boolean functions under general higher
+order quantum computations. To this end, we generalise the framework of query complexity from
+quantum circuits to quantum supermaps to compare different models on an equal footing. We show
+that the recently introduced class of quantum circuits with quantum control of causal order cannot
+lead to any reduction in query complexity, and that any potential advantage arising from causally
+indefinite supermaps can be bounded by the polynomial method, as is the case with quantum cir-
+cuits. Nevertheless, we find some functions for which the minimum error with which they can be
+computed using two queries is strictly lower when exploiting causally indefinite supermaps.
 <br><br>
+arXiv link: <a href="https://arxiv.org/abs/2307.10285">https://arxiv.org/abs/2307.10285</a>
+</details>
+
+<details>
+<summary> <b>Akihito Soeda</b> <br> Title:  </summary>
+<br>
+Abstract: In this talk I will explain how quantum network architecture together with self-testing techniques can aid certification of various quantum resources. In particular, I will discuss device-independent protocols for universal entanglement certification, a self-testing result that can be applied to all pure entangled quantum states, and network-device-independent certification of causal nonseparability.
 </details>
 
 <details>
@@ -86,5 +130,13 @@ Abstract: Memory is the fundamental form of temporal complexity: when present bu
 
 We first analyse various physically motivated candidates regarding a suitable definition for classical memory that lead to remarkably distinct phenomena. In the simplest scenario—the two-time setting—quantum processes with classical memory coincide with convex mixtures of memoryless processes and are thus straightforward to analyse. However, as we demonstrate, this is no longer true in the multi-time setting: here, (classical) memory effects display a more intricate structure. Subsequently, we systematically characterise the hierarchy of multi-time memory effects in quantum mechanics, many levels of which collapse in the two-time setting, making our results genuinely multi-time phenomena. Our analysis highlights that the multi-time scenario permits fundamentally different temporal correlations, even when only classical memory is considered. Since noise in quantum devices—and thus the observed memory effects—will predominantly be classical in the near future, our results provide a framework upon which reliable quantum devices can be built. The concepts explored, and results presented here should have immediate impact on various fields of quantum science, including quantum information theory, optimal control, open quantum systems, and quantum foundations, to name but a few. <br><br>
 arXiv link: <a href="https://arxiv.org/abs/2307.11905">https://arxiv.org/abs/2307.11905</a>
+</details>
+
+<details>
+<summary> <b> Hayata Yamasaki</b>  <br> Title: Energy-Consumption Advantage of Quantum Computation </summary>
+<br>
+Abstract: Energy consumption in solving computational problems has been gaining growing attention as a part of the performance measures of computers. Quantum computation is known to offer advantages over classical computation in terms of various computational resources; however, its advantage in energy consumption has been challenging to analyze due to the lack of a theoretical foundation to relate the physical notion of energy and the computer-scientific notion of complexity for quantum computation with finite computational resources. To bridge this gap, we introduce a general framework for studying the energy consumption of quantum and classical computation based on a computational model that has been conventionally used for studying query complexity in computational complexity theory. With this framework, we derive an upper bound for the achievable energy consumption of quantum computation. We also develop techniques for proving a nonzero lower bound of energy consumption of classical computation based on the energy-conservation law and Landauer's principle. With these general bounds, we rigorously prove that quantum computation achieves an exponential energy-consumption advantage over classical computation for solving a specific computational problem, Simon's problem. Furthermore, we clarify how to demonstrate this energy-consumption advantage of quantum computation in an experimental setting. These results provide a fundamental framework and techniques to explore the physical meaning of quantum advantage in the query-complexity setting based on energy consumption, opening an alternative way to study the advantages of quantum computation.
+<br><br>
+arXiv link: <a href="https://arxiv.org/abs/2305.11212">https://arxiv.org/abs/2305.11212</a>
 </details>
 
