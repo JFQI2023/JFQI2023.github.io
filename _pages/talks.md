@@ -24,12 +24,19 @@ arXiv link: <a href="https://arxiv.org/abs/2211.01687">https://arxiv.org/abs/221
 Abstract:
 </details>
 
+
 <details>
 <summary><b> Adriano Barile</b>  <br>Title: </summary>
 <br>
 Abstract:
 </details>
 
+
+<details>
+<summary><b> Naphan Benchasattabuse</b>  <br>Title: </summary>
+<br>
+Abstract:
+</details>
 
 <details>
 <summary><b> Paolo Fittipaldi</b>  <br>Title: A Linear Algebraic Framework for Dynamic Scheduling Over Memory-Equipped Quantum Networks </summary>
@@ -65,7 +72,33 @@ Abstract:
 <details>
 <summary><b> Uta Isabella Meyer</b>  <br>Title: Non-locality from Wigner Negativity in Qudit Stabilizer States </summary>
 <br>
-Abstract: 
+Abstract: Contextuality and non-locality serve as crucial tools for
+distinguishing quantum from classical systems and have been extensively
+studied for qubits.
+While some attention has been given to extending these concepts to
+higher-dimensional systems, studying them in this context appears to be
+more challenging than their two-level counterparts.
+In particular, violating Bell inequalities based on Clifford operations
+with stabilizer states in qudit systems is futile as they are
+efficiently simulatable.
+Beyond Clifford operations, Bell inequalities have been proposed whose
+classical bound or the extent of quantum violation have been difficult
+to quantify.
+Furthermore, they resort to operations intrinsic to higher or lower
+dimensional systems than those of interest.
+We propose a family of Bell inequalities based on a generalization of
+the qubit $\pi/8$ gate and the Wigner negativity of
+stabilizer states under their adjoint action.
+These operators are fully characterized within the finite field of their
+prime dimension.
+The classical bound is simple to compute and a specified stabilizer
+state maximally violates the inequality among all qudit states.
+We exemplify these Bell inequalities on qudit graph states and formalize
+a mapping that implements local complementation of the underlying
+weighted graphs.
+Lastly, we present a simple family of Bell inequalities violated by the
+singlet state relying on operations innate to higher dimensional systems
+than the examined one.
 </details>
 
 
@@ -112,9 +145,15 @@ arXiv link: <a href="https://arxiv.org/abs/2307.10285">https://arxiv.org/abs/230
 </details>
 
 <details>
+<summary> <b>Bernard Ousmane Sane</b> <br> Title:  </summary>
+<br>
+Abstract:
+</details>
+
+<details>
 <summary> <b>Akihito Soeda</b> <br> Title:  </summary>
 <br>
-Abstract: In this talk I will explain how quantum network architecture together with self-testing techniques can aid certification of various quantum resources. In particular, I will discuss device-independent protocols for universal entanglement certification, a self-testing result that can be applied to all pure entangled quantum states, and network-device-independent certification of causal nonseparability.
+Abstract:
 </details>
 
 <details>
@@ -151,5 +190,11 @@ Abstract:</a>
 Abstract: Energy consumption in solving computational problems has been gaining growing attention as a part of the performance measures of computers. Quantum computation is known to offer advantages over classical computation in terms of various computational resources; however, its advantage in energy consumption has been challenging to analyze due to the lack of a theoretical foundation to relate the physical notion of energy and the computer-scientific notion of complexity for quantum computation with finite computational resources. To bridge this gap, we introduce a general framework for studying the energy consumption of quantum and classical computation based on a computational model that has been conventionally used for studying query complexity in computational complexity theory. With this framework, we derive an upper bound for the achievable energy consumption of quantum computation. We also develop techniques for proving a nonzero lower bound of energy consumption of classical computation based on the energy-conservation law and Landauer's principle. With these general bounds, we rigorously prove that quantum computation achieves an exponential energy-consumption advantage over classical computation for solving a specific computational problem, Simon's problem. Furthermore, we clarify how to demonstrate this energy-consumption advantage of quantum computation in an experimental setting. These results provide a fundamental framework and techniques to explore the physical meaning of quantum advantage in the query-complexity setting based on energy consumption, opening an alternative way to study the advantages of quantum computation.
 <br><br>
 arXiv link: <a href="https://arxiv.org/abs/2305.11212">https://arxiv.org/abs/2305.11212</a>
+</details>
+
+<details>
+<summary> <b> Bo Yang</b>  <br> Title: </summary>
+<br>
+Abstract: 
 </details>
 
