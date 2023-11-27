@@ -70,6 +70,12 @@ Abstract:
 
 
 <details>
+<summary> <b>Mio Murao</b> <br> Title:  </summary>
+<br>
+</details>
+
+
+<details>
 <summary> <b>Ion Nechita</b> <br> Title: Monogamy of highly symmetric states </summary>
 <br>
 Abstract: We study the question of how highly entangled two particles can be when also entangled in a similar way with other particles on the complete graph Kn for the case of Werner, isotropic and Brauer states. We formalize our question as a semidefinite program and then solve this optimization problem analytically, using tools from representation theory. In particular, we determine the exact maximum values p of the projection to the maximally entangled state and antisymmetric Werner state possible, solving long-standing open problems. This is joint work with Rene Allerstorfer, Matthias Christandl, Dmitry Grinko, Maris Ozols, Denis Rochette, and Philip Verduyn Lunel.<br><br>
@@ -131,6 +137,13 @@ Abstract: Memory is the fundamental form of temporal complexity: when present bu
 We first analyse various physically motivated candidates regarding a suitable definition for classical memory that lead to remarkably distinct phenomena. In the simplest scenario—the two-time setting—quantum processes with classical memory coincide with convex mixtures of memoryless processes and are thus straightforward to analyse. However, as we demonstrate, this is no longer true in the multi-time setting: here, (classical) memory effects display a more intricate structure. Subsequently, we systematically characterise the hierarchy of multi-time memory effects in quantum mechanics, many levels of which collapse in the two-time setting, making our results genuinely multi-time phenomena. Our analysis highlights that the multi-time scenario permits fundamentally different temporal correlations, even when only classical memory is considered. Since noise in quantum devices—and thus the observed memory effects—will predominantly be classical in the near future, our results provide a framework upon which reliable quantum devices can be built. The concepts explored, and results presented here should have immediate impact on various fields of quantum science, including quantum information theory, optimal control, open quantum systems, and quantum foundations, to name but a few. <br><br>
 arXiv link: <a href="https://arxiv.org/abs/2307.11905">https://arxiv.org/abs/2307.11905</a>
 </details>
+
+<details>
+<summary> <b> Yu Tanaka</b>  <br> Title:  </summary>
+<br>
+Abstract:</a>
+</details>
+
 
 <details>
 <summary> <b> Hayata Yamasaki</b>  <br> Title: Energy-Consumption Advantage of Quantum Computation </summary>
