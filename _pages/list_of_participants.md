@@ -8,6 +8,7 @@ nav_order: 3
 ---
 
 [Alastair Abbott](https://alastair-abbott.github.io/) - Inria Grenoble, QINFO group
+<br>[Seiseki Akibue](https://researchmap.jp/seiseki.akibue) - NTT
 <br>[Hiroo Azuma](https://researchmap.jp/hirooazuma_quantph) - NII
 <br>[Jessica Bavaresco](https://jessicabavaresco.github.io/) - University of Geneva
 <br>[Adriano Barile](https://orcid.org/0000-0002-5122-0340) - NII
