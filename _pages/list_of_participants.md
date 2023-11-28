@@ -11,7 +11,7 @@ nav_order: 3
 <br>[Seiseki Akibue](https://researchmap.jp/seiseki.akibue) - NTT
 <br>[Hiroo Azuma](https://researchmap.jp/hirooazuma_quantph) - NII
 <br>[Jessica Bavaresco](https://jessicabavaresco.github.io/) - University of Geneva
-<br>[Adriano Barile](https://orcid.org/0000-0002-5122-0340) - NII
+<br>[Adriano Barile](https://orcid.org/0000-0002-5122-0340) - NII 
 <br>[Naphan Benchasattabuse](https://scholar.google.com/citations?user=FRsTsksAAAAJ&hl=en) -  Keio University
 <br>[Vanessa Brzić](https://www.lip6.fr/actualite/personnes-fiche.php?ident=D2670) - LIP6/Sorbonne University/CNRS, QI group
 <br>[Cyril Branciard](https://neel.cnrs.fr/les-chercheurs-et-techniciens/branciard-cyril) - CNRS/Néel Institute, NPSC group
