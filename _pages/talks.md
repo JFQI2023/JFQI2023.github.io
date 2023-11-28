@@ -38,6 +38,14 @@ Abstract:
 Abstract:
 </details>
 
+
+<details>
+<summary><b> Cyril Branciard</b>  <br>Title: Quantum processes and correlations with dynamical causal orders </summary>
+<br>
+Abstract: There has been a lot of interest recently in the study of quantum processes that do not just follow a fixed causal structure. E.g. processes with indefinite causal orders, as in the paradigmatic example of the "quantum switch" -- a process in which the order of 2 (or more) operations is coherently controlled by the state of a quantum system, which can be put in a quantum superposition.
+Another situation where the causal structure is not fixed a priori is when there is "dynamical causal order": the causal order is established on the fly, as the process evolves. In this talk I propose to explore the kind of situations with dynamical causal order that one may encounter. In particular, in which sense can the causal order be both indefinite and dynamical at the same time?
+</details>
+
 <details>
 <summary><b> Paolo Fittipaldi</b>  <br>Title: A Linear Algebraic Framework for Dynamic Scheduling Over Memory-Equipped Quantum Networks </summary>
 <br>
