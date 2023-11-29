@@ -19,16 +19,20 @@ arXiv link: <a href="https://arxiv.org/abs/2211.01687">https://arxiv.org/abs/221
 
 
 <details>
-<summary><b> Hiroo Azuma</b>  <br>Title: </summary>
+<summary><b> Hiroo Azuma</b>  <br>Title: Generation of a squeezed state using a nonlinear photonic crystal and its application to a heralded single-photon source
+ </summary>
 <br>
-Abstract:
+Abstract: We investigate how to generate squeezed light using a nonlinear photonic crystal. Because the photonic crystal reduces the group velocity of the incident light, if it is composed of a material with a second-order nonlinear optical susceptibility \chi^{(2)}, the interaction between the nonlinear material and the light passing through it strengthens and the quantum state of the emitted light is largely squeezed. Thus, we can generate squeezed light with a resonating cavity where the nonlinear photonic crystal is placed. Transforming this squeezed state into entangled light beams with a beam splitter, we discuss the implementation of a heralded single-photon source. 
+<br><br>
+arXiv link: <a href="https://arxiv.org/abs/2304.11373">https://arxiv.org/abs/2304.11373</a>
 </details>
 
 
 <details>
-<summary><b> Adriano Barile</b>  <br>Title: </summary>
+<summary><b> Adriano Barile</b>  <br>Title: Different Approaches Towards Formalizing and Optimizing Reversible and Quantum Circuits </summary>
 <br>
-Abstract:
+Abstract: The talk will be focused on different approaches of scientific inquiry on some of the issues posed by the theory of the synthesis of Reversible Boolean and Quantum Circuits. The first approach is mostly mathematical, and it concerns what it means to formalize a circuit as a 2-dimensional grammar using the (arguably) cumbersome but (arguably) elegant language of category theory, with the goal of defining a "shortest normal form" for reversible/quantum circuits given a set of rewriting rules. The second approach shows what could happen if we get rid of the logical inner workings of a circuit and want to compress a quantum circuit by approximating it as an operator in a metric space - in particular, the advantages and the shortcomings of methods such as Approximate Quantum Compiling will be presented.
+The third and last section will be devoted to introducing some questions that I aim to answer in the period at NII: namely, the classification of ancillae in view of reaching optimal space consumption in Reversible and Quantum circuits, and the search for explicit reversibilization methods.
 </details>
 
 
@@ -63,17 +67,29 @@ Abstract:
 </details>
 
 <details>
-<summary><b> Aoi Hayashi</b>  <br>Title: </summary>
+<summary><b> Aoi Hayashi</b>  <br>Title: Impact of the form of weighted networks on the quantum extreme reservoir computation </summary>
 <br>
-Abstract: 
+Abstract: The recent development of quantum devices raises expectations for utilizing them for practical applications while still noisy. Driven by such expectation, quantum machine learning, considered robust to noise, is gathering much attention, and various models have been proposed.
+  Among such models, the quantum extreme reservoir computation (QERC) [A. Sakurai, et al., Phys. Rev. Applied 17, 064044 (2022)] has already shown the capability to achieve a high accuracy rate for classification tasks with the smallest number of qubits among previous works. This model utilizes fixed Hamiltonian dynamics with a trainable classical neural network to solve tasks. As the performance of the model is dependent on the properties of the Hamiltonian dynamics, there is still room to choose and design the dynamics; however, the relation between the properties of the quantum dynamics and the model performance remains unrevealed.
+  In this talk (based on [A. Hayashi, et al., Phys. Rev. A 108, 042609 (2023)]), we focus on the relationship between the properties of quantum dynamics and QERC performance to understand how to design quantum dynamics for this quantum machine learning model [2]. To do so, we first introduce a method to characterize unitary matrices as networks. We then apply it to several unitary matrices, including random ones, and observe how their difference is exhibited by the method. Next, we benchmark the QERC performance with those unitary matrices.
+  We will then find the relation between the weight distribution of the networks associated with unitary matrices and the performance, especially generalization performance for image classification tasks. Lastly, we will show an example of Hamiltonian dynamics that can achieve a nearly optimal testing accuracy rate and the best generalization performance among our benchmarks.  
+ <br><br>
+arXiv link: <a href="https://arxiv.org/abs/2211.07841">https://arxiv.org/abs/2211.07841</a>
 </details>
 
 
 
 <details>
-<summary><b> Michal Hajdusek</b>  <br>Title: </summary>
+<summary><b> Michal Hajdusek</b>  <br>Title: Advancing quantum architecture</summary>
 <br>
-Abstract: 
+Abstract: In this short talk, I will give a brief overview of recent results and
+ongoing projects at the Advancing Quantum Architecture Group (AQUA) at
+Keio University. Topics covered include simulation of quantum networks
+and internetworks using our Quantum Internet Simulation Package (QuISP),
+quantum internet architecture, noise estimation in quantum networks
+beyond tomography, and compilation of fault-tolerant graph states. I
+will also highlight AQUA's efforts in quantum education, including our
+recent undergraduate textbook Quantum Communications.
 </details>
 
 
@@ -159,9 +175,9 @@ Abstract:
 </details>
 
 <details>
-<summary> <b>Akihito Soeda</b> <br> Title:  </summary>
+<summary> <b>Akihito Soeda</b> <br> Title: Inter-node quantum operations and assessment of devices for such operations </summary>
 <br>
-Abstract:
+Abstract: Global operations between network nodes are crucial to achieve any benefit of quantum computation. We have to design the individual network components appropriately so that they function as a single large quantum system when connected together. How to assess a single device for its expected quantumness when used to form a large network? And how to do so with as little experimental resources as possible? We explore the case of remote CNOT gate utilizing one Bell state and discuss how we can reduce the assessment complexity with respect to full quantum process tomography.
 </details>
 
 <details>
