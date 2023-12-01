@@ -169,9 +169,15 @@ arXiv link: <a href="https://arxiv.org/abs/2307.10285">https://arxiv.org/abs/230
 </details>
 
 <details>
-<summary> <b>Bernard Ousmane Sane</b> <br> Title:  </summary>
+<summary> <b>Bernard Ousmane Sane</b> <br> Title:  Fight or Flight: Cosmic Ray-Induced Phonons and the Quantum Surface Code </summary>
 <br>
-Abstract:
+Abstract: Recent work has identified cosmic ray events as an error source limiting the lifetime of quantum data. These errors are correlated and affect a large number of qubits, leading to the
+loss of data across a quantum chip. Previous works attempting to address the problem in hardware or by building distributed systems still have limitations. We approach the problem from
+a different perspective, developing a new hybrid hardware-software-based strategy based on the 2-D surface code, assuming the parallel development of a hardware strategy that limits the
+phonon propagation radius. We propose to flee the area: move the logical qubits far enough away from the strike’s epicenter to maintain our logical information. Specifically, we: (1) propose
+a mapping for moving logical qubits; (2) establish goals for the hardware parameters needed to use our approach; and (3) evaluate the possible choice of the code distance. Our analysis considers two possible cosmic ray events: those far from both “holes” in the surface code and those near or overlapping a hole. We show that the probability that the logical qubit will be destroyed can be reduced from 100% to the range 4% to 15% depending on the time required to move the logical qubit.
+<br><br>
+arXiv link: <a href="https://arxiv.org/abs/2307.16533">https://arxiv.org/abs/2307.16533</a>
 </details>
 
 <details>
@@ -217,8 +223,8 @@ arXiv link: <a href="https://arxiv.org/abs/2305.11212">https://arxiv.org/abs/230
 </details>
 
 <details>
-<summary> <b> Bo Yang</b>  <br> Title: </summary>
+<summary> <b> Bo Yang</b>  <br> Title: Quantum State Purification with Symmetry Subgroup Projectors </summary>
 <br>
-Abstract: 
+Abstract: The future quantum ecosystem will be likely to adopt the client-server model, where the client with limited quantum ability delegates its computation to the server with universal quantum computational ability. Under this scenario, the client may prefer to keep the computation blind against the server and verify the correctness of the outcome. For the case where a client has the ability to prepare and send single-qubit to the server, this is answered by [Fitzsimons and Kashefi, 2012], achieving the blind verification of both quantum and classical inputs and outputs, while requiring fault-tolerance on the server side. Recently, to make [Fitzsimons and Kashefi, 2012] robust to harmless noise without fault-tolerance, [Leichtle, Music, Kashefi, and Ollivier, 2021] provides a robust blind verification for classical inputs and outputs by using the classical majority vote. However, the method to verify the quantum outputs from the server in this prepare-and-send model is still an open question. To approach this, we first try to design a quantum state purification gadget that is affordable without fault-tolerance. Particularly, in this work, we provide a gadget that distils multiple noisy quantum states into one purified quantum state by projecting them into their symmetry subspace created by the cyclic group. We also analyse the optimal conditions in the number of state inputs and evaluate the performance through the numerical simulation. Our gadget would find a wide application not only in verification protocols but also in general sampling problems under faulty oracles.
 </details>
 
