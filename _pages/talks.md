@@ -37,9 +37,10 @@ The third and last section will be devoted to introducing some questions that I 
 
 
 <details>
-<summary><b> Naphan Benchasattabuse</b>  <br>Title: </summary>
+<summary><b> Naphan Benchasattabuse</b>  <br>Title: Lower Bounds on Number of QAOA Rounds Required for Guaranteed Approximation Ratios</summary>
 <br>
-Abstract:
+Abstract: The quantum alternating operator ansatz (QAOA) is a heuristic hybrid quantum-classical algorithm for finding high-quality approximate solutions to combinatorial optimization problems, such as Maximum Satisfiability. While QAOA is well-studied, theoretical results as to its runtime or approximation ratio guarantees are still relatively sparse. In this talk, I will go over our proof frameworks leveraging a connection between quantum annealing times and the angles of QAOA to derive a lower bound on the number of rounds QAOA required to guarantee (constant) approximation ratio. I will discuss results obtained from applying this proof framework on QAOA with Grover-style mixing unitaries, and show that this type of QAOA requires at least a polynomial number of rounds to guarantee any constant approximation ratios for most problems. For the conventional transverse field mixer, our framework gives a trivial lower bound to all bounded occurrence local cost problems and all strictly k-local cost Hamiltonians matching known results that constant approximation ratio is obtainable with constant round QAOA for a few optimization problems from these classes. With a small modification to our framework, our lower bound applies to any QAOA-style search protocol that starts in the ground state of the mixing unitaries and recovers the Grover lower bound for unstructured search.<br><br>
+arXiv link: <a href="https://arxiv.org/abs/2308.15442">https://arxiv.org/abs/2308.15442</a> 
 </details>
 
 
