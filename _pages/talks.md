@@ -60,6 +60,13 @@ In this talk, the problem of scheduling in an arbitrary quantum network is prese
 arXiv link: <a href="https://arxiv.org/abs/2307.06009">https://arxiv.org/abs/2307.06009</a> 
 </details>
 
+<details>
+<summary><b> Tim Forrer </b>  <br>Title: Efficient bipartite distributed quantum computing </summary>
+<br>
+Abstract: As quantum circuits require ever larger numbers of qubits to perform computations, quantum computers must too possess larger numbers of qubits to match. However scaling the number of qubits in a single quantum computer is a significant challenge. Instead, we propose increasing the number of qubits available for a quantum circuit by combining seperate quantum computers via distributed quantum computing. This is facilitated by the use of entanglement between the two computers, alongside local operations and classical communication. Our proposition is formalised by an algorithm that allows for an efficient, automated distribution of a global circuit between two quantum computers. This algorithm is efficient in two ways - first it aims to minimise the amount of entanglement required to distribute a given circuit, and second it does so in polynomial time. This algorithm can be further extended to the multipartite setting, including a variety of network connections between the quantum computers.
+<br><br>
+arXiv link: <a href="https://arxiv.org/abs/2307.06009">https://arxiv.org/abs/2307.06009</a> 
+</details>
 
 <details>
 <summary><b> Hiroshi Imai</b>  <br>Title: Quantum Machine Learning and Optimization on Real Devices </summary>
@@ -230,4 +237,3 @@ Abstract: The future quantum ecosystem will be likely to adopt the client-server
 
 
 </details>
-
