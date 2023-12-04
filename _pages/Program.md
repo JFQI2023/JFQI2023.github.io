@@ -9,27 +9,6 @@ nav_order: 4
 
 The table below is still a tentative version of the program. Title and abstracts may be found in the [talks tab](https://jfqi2023.github.io/talks/).
 
-| Time           | Wednesday   | Thursday  | Friday    |
-| :------------- | :---------- | :-------- | :-------- |
-| 09:30 – 10 :00 | **Opening** | ---       | ---       |
-| 10:00 – 10 :30 | TALK 1      | TALK 9    | TALK 17   |
-| 10:30 – 11 :00 | TALK 2      | TALK 10   | TALK 18   |
-| 11:00 – 11 :30 | **BREAK**   | **BREAK** | **BREAK** |
-| 11:30 – 12 :00 | TALK 3      | TALK 11   | TALK 19   |
-| 12:00 – 12 :30 | TALK 4      | TALK 12   | TALK 20   |
-| 12:30 – 14 :30 | **LUNCH**   | **LUNCH** | **LUNCH** |
-| 14:30 – 15 :00 | TALK 5      | TALK 13   | TALK 21   |
-| 15:00 – 15 :30 | TALK 6      | TALK 14   | TALK 22   |
-| 15:30 – 16 :00 | **BREAK**   | **BREAK** | **BREAK** |
-| 16:30 – 17 :00 | TALK 7      | TALK 15   | TALK 23   |
-| 16:30 – 17 :00 | TALK 8      | TALK 16   | TALK 24   |
-                            
-
-
-
-<!---
-
-
 | Time           | Wednesday                                                                                 | Thursday                                                                    | Friday                                                               |
 | :------------- | :---------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------- | :------------------------------------------------------------------- |
 | 09:30 – 10 :00 | **Opening**                                                                               | ---                                                                         | ---                                                                  |
@@ -44,6 +23,14 @@ The table below is still a tentative version of the program. Title and abstracts
 | 15:30 – 16 :00 | **BREAK**                                                                                 | **BREAK**                                                                   | **BREAK**                                                            |
 | 16:30 – 17 :00 | [Odake](https://www.eve.phys.s.u-tokyo.ac.jp/php/members.php)                             | [Šupić](https://www.lip6.fr/actualite/personnes-fiche.php?ident=D2431)    | [Abbott](https://alastair-abbott.github.io/)                         |
 | 16:30 – 17 :00 | [Forrer](https://www.eve.phys.s.u-tokyo.ac.jp/php/members.php)                            | [Meyer](https://www.lip6.fr/actualite/personnes-fiche.php?ident=D2412)      | [Hayashi](https://qis1.ex.nii.ac.jp/quantumCenter/p_hayashi.html)                                  |
+
+                            
+
+
+
+<!---
+
+
 
 
 | Time           | Wednesday   | Thursday  | Friday    |
