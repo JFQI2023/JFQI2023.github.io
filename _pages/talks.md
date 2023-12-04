@@ -43,6 +43,13 @@ Abstract: The quantum alternating operator ansatz (QAOA) is a heuristic hybrid q
 arXiv link: <a href="https://arxiv.org/abs/2308.15442">https://arxiv.org/abs/2308.15442</a> 
 </details>
 
+<details>
+<summary><b> Francesco Buscemi</b>  <br>Title: Incompatible incompatibilities, and how to make them compatible again </summary>
+<br>
+Abstract: While there is a generally accepted definition of incompatibility for POVMs, two possible extensions for instruments are found in the literature, sometimes called "classical incompatibility" and "parallel incompatibility", which are logically inequivalent and have been the source of debate and confusion. Here we resolve this tension by introducing a new, operationally motivated notion, "q-incompatibility", which again reduces to the correct definition for POVMs, but is able to accommodate both classical and parallel incompatibilities in a unified resource-theoretic framework. Finally, we consider another notion of instrument incompatibility, which we call "exclusivity", in which the order of the measurements is the crucial ingredient. This is joint work with Kodai Kobayashi, Shintaro Minagawa, Paolo Perinotti, and Alessandro Tosini. <br><br>
+arXiv link: <a href="https://arxiv.org/abs/2211.09226">https://arxiv.org/abs/2211.09226</a> 
+</details>
+
 
 <details>
 <summary><b> Cyril Branciard</b>  <br>Title: Quantum processes and correlations with dynamical causal orders </summary>
@@ -80,7 +87,7 @@ Abstract:
 Abstract: The recent development of quantum devices raises expectations for utilizing them for practical applications while still noisy. Driven by such expectation, quantum machine learning, considered robust to noise, is gathering much attention, and various models have been proposed.
   Among such models, the quantum extreme reservoir computation (QERC) [A. Sakurai, et al., Phys. Rev. Applied 17, 064044 (2022)] has already shown the capability to achieve a high accuracy rate for classification tasks with the smallest number of qubits among previous works. This model utilizes fixed Hamiltonian dynamics with a trainable classical neural network to solve tasks. As the performance of the model is dependent on the properties of the Hamiltonian dynamics, there is still room to choose and design the dynamics; however, the relation between the properties of the quantum dynamics and the model performance remains unrevealed.
   In this talk (based on [A. Hayashi, et al., Phys. Rev. A 108, 042609 (2023)]), we focus on the relationship between the properties of quantum dynamics and QERC performance to understand how to design quantum dynamics for this quantum machine learning model [2]. To do so, we first introduce a method to characterize unitary matrices as networks. We then apply it to several unitary matrices, including random ones, and observe how their difference is exhibited by the method. Next, we benchmark the QERC performance with those unitary matrices.
-  We will then find the relation between the weight distribution of the networks associated with unitary matrices and the performance, especially generalization performance for image classification tasks. Lastly, we will show an example of Hamiltonian dynamics that can achieve a nearly optimal testing accuracy rate and the best generalization performance among our benchmarks.  
+  We will then find the relation between the weight distribution of the networks associated with unitary matrices and the performance, especially generalization performance for image classification tasks. Lastly, we will show an example of Hamiltonian dynamics that can achieve a nearly optimal testing accuracy rate and the best generalization performance among our benchmarks.
  <br><br>
 arXiv link: <a href="https://arxiv.org/abs/2211.07841">https://arxiv.org/abs/2211.07841</a>
 </details>
@@ -88,7 +95,7 @@ arXiv link: <a href="https://arxiv.org/abs/2211.07841">https://arxiv.org/abs/221
 
 
 <details>
-<summary><b> Michal Hajdusek</b>  <br>Title: Advancing quantum architecture</summary>
+<summary><b> Michal Hajdušek</b>  <br>Title: Advancing quantum architecture</summary>
 <br>
 Abstract: In this short talk, I will give a brief overview of recent results and
 ongoing projects at the Advancing Quantum Architecture Group (AQUA) at
@@ -100,6 +107,13 @@ will also highlight AQUA's efforts in quantum education, including our
 recent undergraduate textbook Quantum Communications.
 </details>
 
+<details>
+<summary><b> Sara Metwalli</b>  <br>Title: Towards Testing and Debugging Quantum Circuits </summary>
+<br>
+Abstract: The forty-year history of quantum computers has taken us through initial curiosity, naive optimism, then dismay at the scale of proposed error-corrected systems, and into today’s excitement over the availability of real, but still small and error-prone, systems.
+Algorithms have followed a similar roller coaster, arriving at the point where modest demonstration implementations of algorithms originally defined as abstract equations in theory papers are now common. The challenge on hardware and software is scalability: more qubits and larger, more sophisticated programs. Large-scale work raises the need for a mature software engineering approach, including tools for all life cycle phases. However, to build these tools, we need a better understanding of the behavior of quantum circuits and how we can test and debug them accordingly.
+arXiv link: <a href="https://arxiv.org/abs/2205.01899">https://arxiv.org/abs/2205.01899</a>
+</details>
 
 <details>
 <summary><b> Uta Isabella Meyer</b>  <br>Title: Non-locality from Wigner Negativity in Qudit Stabilizer States </summary>

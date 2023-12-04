@@ -15,11 +15,12 @@ nav_order: 3
 <br>[Naphan Benchasattabuse](https://scholar.google.com/citations?user=FRsTsksAAAAJ&hl=en) -  Keio University
 <br>[Vanessa Brzić](https://www.lip6.fr/actualite/personnes-fiche.php?ident=D2670) - LIP6/Sorbonne University/CNRS, QI group
 <br>[Cyril Branciard](https://neel.cnrs.fr/les-chercheurs-et-techniciens/branciard-cyril) - CNRS/Néel Institute, NPSC group
+<br>[Francesco Buscemi](http://www.math.cm.is.nagoya-u.ac.jp/~buscemi/) - Nagoya University, Graduate School of Informatics
 <br>[Paolo Fittipaldi](https://qi.lip6.fr/people/paolo-fittipaldi/) - LIP6/Sorbonne University/CNRS, QI group
 <br>[Tim Forrer](https://www.eve.phys.s.u-tokyo.ac.jp/php/members.php) - The University of Tokyo, Graduate School of Science
 <br>[Frédéric Grosshans](https://www.lip6.fr/actualite/personnes-fiche.php?ident=P1445) - LIP6/Sorbonne University/CNRS, QI group
 <br>[Aoi Hayashi](https://qis1.ex.nii.ac.jp/quantumCenter/p_hayashi.html) - NII
-<br>[Michal Hajdusek](https://scholar.google.com.sg/citations?user=8DgauUcAAAAJ&hl=en) - Keio University
+<br>[Michal Hajdušek](https://scholar.google.com.sg/citations?user=8DgauUcAAAAJ&hl=en) - Keio University
 <br>[Benedek Hauer](https://www-imai.is.s.u-tokyo.ac.jp/members.html) - The University of Tokyo, Department of Computer Science
 <br>[Hiroshi Imai](https://www-imai.is.s.u-tokyo.ac.jp/members.html) - The University of Tokyo, Department of Computer Science
 <br>[Natsuto Isogai](https://www.eve.phys.s.u-tokyo.ac.jp/php/members.php) - The University of Tokyo, Graduate School of Science
@@ -28,6 +29,7 @@ nav_order: 3
 <br>[Hler Kristjansson](https://perimeterinstitute.ca/people/hler-kristjansson) - Perimeter Institute for Theoretical Physics
 <br>[Damian Markham](https://damianmarkham.weebly.com/) - LIP6/Sorbonne University/CNRS, QI group
 <br>[Rod Van Meter](https://web.sfc.keio.ac.jp/~rdv/) - Keio University, Faculty of Environment and Information Studies
+<br>[Sara Metwalli](https://aqua.sfc.wide.ad.jp/members) - Keio University, Faculty of Environment and Information Studies
 <br>[Uta Isabella Meyer](https://www.lip6.fr/actualite/personnes-fiche.php?ident=D2412) - LIP6/Sorbonne University/CNRS, QI group
 <br>[Mio Murao](https://www.eve.phys.s.u-tokyo.ac.jp/php/members.php) - The University of Tokyo, Graduate School of Science
 <br>[Kae Nemoto](https://qis1.ex.nii.ac.jp/quantumCenter/p_nemoto.html) - NII, OIST, JFLI
