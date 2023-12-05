@@ -24,6 +24,7 @@ nav_order: 3
 <br>[Benedek Hauer](https://www-imai.is.s.u-tokyo.ac.jp/members.html) - The University of Tokyo, Department of Computer Science
 <br>[Hiroshi Imai](https://www-imai.is.s.u-tokyo.ac.jp/members.html) - The University of Tokyo, Department of Computer Science
 <br>[Natsuto Isogai](https://www.eve.phys.s.u-tokyo.ac.jp/php/members.php) - The University of Tokyo, Graduate School of Science
+<br>[Tadashi Kadowaki](https://dblp.org/pid/36/7606.html) - National Institute of Advanced Industrial Science and Technology (AIST) 
 <br>[Elham Kashefi](https://www.lip6.fr/actualite/personnes-fiche.php?ident=P1427) - LIP6/Sorbonne University/CNRS, QI group
 <br>[Yoshiaki Kawase](https://www.u-tokyo.ac.jp/focus/en/people/k0001_05134.html) - The University of Tokyo, Information Science and Technology
 <br>[Hler Kristjansson](https://perimeterinstitute.ca/people/hler-kristjansson) - Perimeter Institute for Theoretical Physics

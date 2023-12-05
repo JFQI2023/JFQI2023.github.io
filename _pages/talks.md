@@ -106,7 +106,11 @@ beyond tomography, and compilation of fault-tolerant graph states. I
 will also highlight AQUA's efforts in quantum education, including our
 recent undergraduate textbook Quantum Communications.
 </details>
-
+<details>
+<summary><b> Tadashi Kadowaki </b>  <br>Title: Enhancing Quantum Annealing in Digital-Analog Quantum Computing </summary>
+<br>
+Abstract: Digital-analog quantum computing (DAQC) offers a promising approach to addressing the challenges of building a practical quantum computer. By efficiently allocating resources between digital and analog quantum circuits, DAQC paves the way for achieving optimal performance. We propose an algorithm designed to enhance the performance of quantum annealing. This method employs a quantum gate to estimate the goodness of the final annealing state and find the ground state of combinatorial optimization problems. We explore two strategies for integrating the quantum annealing circuit into the DAQC framework: (1) for state preparation, and (2) for embedding within the quantum gate. While the former strategy does not yield performance improvements, we discover that the latter enhances performance within a specific range of annealing time. Algorithms demonstrating enhanced performance utilize the imaginary part of the inner product of two states from different quantum annealing settings. This measure reflects not only the energy of the classical cost function but also the trajectory of the quantum dynamics. This study provides an example of how processing quantum data using a quantum circuit can outperform classical data processing, which discards quantum information.
+</details>
 <details>
 <summary><b> Sara Metwalli</b>  <br>Title: Towards Testing and Debugging Quantum Circuits </summary>
 <br>
@@ -149,8 +153,9 @@ than the examined one.
 
 
 <details>
-<summary> <b>Mio Murao</b> <br> Title:  </summary>
+<summary> <b>Mio Murao</b> <br> Title: Higher-order quantum transformations of black box unitaries </summary>
 <br>
+Abstract: Supermaps are higher-order transformations taking maps as input.  Quantum mechanically implementable supermaps are called quantum supermaps, and their general properties are formulated by the framework of quantum networks and quantum combs proposed by Chiribella et al.  We consider the implementability of supermaps in quantum mechanics when the input maps are unitaries given as black boxes, and the black box unitaries can be used multiple but finite times to explore fundamental quantum properties exhibited in higher-order quantum transformations possibly utilized for quantum computation.  We analyze several tasks, inversion, complex conjugation, and transposition of black box unitaries, and controllization of divisible black box unitaries based on the controllization of quantum combs.
 </details>
 
 
@@ -230,9 +235,9 @@ arXiv link: <a href="https://arxiv.org/abs/2307.11905">https://arxiv.org/abs/230
 </details>
 
 <details>
-<summary> <b> Yu Tanaka</b>  <br> Title:  </summary>
+<summary> <b> Yu Tanaka</b>  <br> Title:  Quantum State Preparation via Free Binary Decision Diagram</summary>
 <br>
-Abstract:</a>
+Abstract: Quantum state preparation (QSP) is a task of preparing a quantum state for a given classical description of the quantum state or a given oracle access to the coeﬀicients of the quantum state. In this paper, we analyze the computational complexity of QSP when the classical description of a quantum state can be represented by a free binary decision diagram (FBDD) with weighted edges. An FBDD is a rooted directed acyclic graph with two terminal nodes, which is introduced to represent a boolean function. Each node is labeled with a variable of the boolean function and has at most two edges labeled with the assignment 0 or 1 of the variable. We show that any n- qubit state whose classical description can be represented by a FBDD with weighted edges can be prepared with a O(|V |)-sized quantum circuit using single- and two-qubit gates and |V | ancillary qubits, where V is a set of nodes of the FBDD. Our algorithm improves the circuit size of the other BDD-based QSP exponentially in terms of the number of single- and two-qubit gates. Furthermore, we extend the class of quantum states that can be prepared by combining our proposed method with a black-box QSP.</a>
 </details>
 
 
