@@ -20,7 +20,7 @@ The NII can be easily accessed via the metro station:
 - Jimbocho (Shinjuku Line, Hanzomon Line, and Mita line)
 
 Location of the workshop for the first two days, Wednesday 13th and Thursday 14th of December:<br>
-- Room 1320 of No. 4 Science Building inside [Hongo Campus](https://www.u-tokyo.ac.jp/en/whyutokyo/hongo_index.html#) (7 Chome-3-1 Hongo, Bunkyo City, Tokyo). <br><br>
+- Room 1320 of [Faculty of Science Building 4](https://www.s.u-tokyo.ac.jp/en/access.html), inside [Hongo Campus](https://www.u-tokyo.ac.jp/en/whyutokyo/hongo_index.html#) (7 Chome-3-1 Hongo, Bunkyo City, Tokyo). <br> The precise location of Faculty of Science Building 4 is also marked in [Google Maps](https://maps.app.goo.gl/wwiGpakgE7xE9v1h6) <br><br>
  ![map_todai](/assets/img/map_todai.jpg)
 
 
