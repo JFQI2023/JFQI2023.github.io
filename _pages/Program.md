@@ -7,7 +7,7 @@ nav: true
 nav_order: 4
 ---
 
-The table below is still a tentative version of the program. Title and abstracts may be found in the [talks tab](https://jfqi2023.github.io/talks/).
+Title and abstracts may be found in the [talks tab](https://jfqi2023.github.io/talks/).
 
 | Time           | Wednesday                                                                                 | Thursday                                                                    | Friday                                                               |
 | :------------- | :---------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------- | :------------------------------------------------------------------- |
