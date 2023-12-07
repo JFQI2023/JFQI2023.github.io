@@ -23,6 +23,7 @@ Title and abstracts may be found in the [talks tab](https://jfqi2023.github.io/t
 | 16:00 – 16 :30 | **BREAK**                                                                                 | **BREAK**                                                                   | **BREAK**                                                                       |
 | 17:00 – 17 :30 | [Odake](https://www.eve.phys.s.u-tokyo.ac.jp/php/members.php)                             | [Šupić](https://www.lip6.fr/actualite/personnes-fiche.php?ident=D2431)      | [Fittipaldi](https://qi.lip6.fr/people/paolo-fittipaldi/)                       |
 | 17:30 – 18 :00 | [Forrer](https://www.eve.phys.s.u-tokyo.ac.jp/php/members.php)                            | [Meyer](https://www.lip6.fr/actualite/personnes-fiche.php?ident=D2412)      | [Abbott](https://alastair-abbott.github.io/)                                    |
+| 17:30 – 18 :00 |                                                                                           | [Grosshans](https://www.lip6.fr/actualite/personnes-fiche.php?ident=P1445)  |                                                                                 |
 
                             
 

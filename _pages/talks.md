@@ -76,6 +76,12 @@ arXiv link: <a href="https://arxiv.org/abs/2307.06009">https://arxiv.org/abs/230
 </details>
 
 <details>
+<summary><b> Frédéric Grosshans </b>  <br>Title: Linear Optical Logical Bell Measurements </summary>
+<br>
+Abstract: 
+</details>
+
+<details>
 <summary><b> Hiroshi Imai</b>  <br>Title: Quantum Machine Learning and Optimization on Real Devices </summary>
 <br>
 Abstract: 
