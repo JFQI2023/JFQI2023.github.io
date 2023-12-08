@@ -88,6 +88,37 @@ Abstract:
 </details>
 
 <details>
+<summary><b> Elham Kashefi </b>  <br>Title: Quantum physical unclonable functions: Possibilities and impossibilities
+ </summary>
+<br>
+Abstract: A Physical Unclonable Function (PUF) is a device with unique behaviour
+that is hard to clone hence providing a secure fingerprint. A variety
+of PUF structures and PUF-based applications have been explored
+theoretically as well as being implemented in practical settings.
+Recently, the inherent unclonability of quantum states has been
+exploited to derive the quantum analogue of PUF as well as new
+proposals for the implementation of PUF. We presented the first
+comprehensive study of quantum Physical Unclonable Functions (qPUFs)
+with quantum cryptographic tools. We use a quantum game-based
+framework to define different levels of security for qPUFs: quantum
+exponential unforgeability, quantum existential unforgeability and
+quantum selective unforgeability. We also introduced a new quantum
+attack technique based on the universal quantum emulator algorithm to
+prove no qPUF can provide quantum existential unforgeability. On the
+other hand, we prove that a large family of qPUFs (called unitary
+PUFs) can provide quantum selective unforgeability which is the
+desired level of security for most PUF-based applications.
+Furthermore, we also developed secure authentication schemes based on
+our new framework, however these protocols remain resource intensive.
+Hence recently we designed the notion of Hybrid-PUF which combines
+classical PUFs with quantum encoding and quantum communication (to
+achieve a secure scheme out of an insecure classical PUF) and based on
+that we designed efficient quantum-secure authentication protocols
+that are implementable with existing QKD infrastructures.
+</details>
+
+
+<details>
 <summary><b> Aoi Hayashi</b>  <br>Title: Impact of the form of weighted networks on the quantum extreme reservoir computation </summary>
 <br>
 Abstract: The recent development of quantum devices raises expectations for utilizing them for practical applications while still noisy. Driven by such expectation, quantum machine learning, considered robust to noise, is gathering much attention, and various models have been proposed.
