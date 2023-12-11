@@ -14,7 +14,7 @@ nav_order: 3
 <br>[Adriano Barile](https://orcid.org/0000-0002-5122-0340) - NII 
 <br>[Naphan Benchasattabuse](https://scholar.google.com/citations?user=FRsTsksAAAAJ&hl=en) -  Keio University
 <br>[Vanessa Brzić](https://www.lip6.fr/actualite/personnes-fiche.php?ident=D2670) - LIP6/Sorbonne University/CNRS, QI group
-<br>[Jean-Baptiste BORDES](https://jp.ambafrance.org/) - Ambassade de France à Tokyo
+<br>[Jean-Baptiste Bordes](https://jp.ambafrance.org/) - Ambassade de France à Tokyo
 <br>[Cyril Branciard](https://neel.cnrs.fr/les-chercheurs-et-techniciens/branciard-cyril) - CNRS/Néel Institute, NPSC group
 <br>[Francesco Buscemi](http://www.math.cm.is.nagoya-u.ac.jp/~buscemi/) - Nagoya University, Graduate School of Informatics
 <br>[Paolo Fittipaldi](https://qi.lip6.fr/people/paolo-fittipaldi/) - LIP6/Sorbonne University/CNRS, QI group
