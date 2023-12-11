@@ -84,7 +84,11 @@ Abstract:
 <details>
 <summary><b> Hiroshi Imai</b>  <br>Title: Quantum Machine Learning and Optimization on Real Devices </summary>
 <br>
-Abstract: 
+Abstract: Quantum Machine Learning and Quantum Optimization are two of promising problems which may be implemented and have impact to real-world applications by using near-term quantum computers.  In this talk we review recent research results of our laboratory members, especially
+ <br>* Distributed Coordinate Descent Algorithm for Variational Quantum Classification
+<br>* The Role of Entanglement in Quantum-Relaxation Based Optimization Algorithms
+<br>* Solving Not-All-Equal 3SAT using Quantum Random Access Optimization <br>
+This is a joint work with Benedek Hauer, Izuho Koyasu, Kosei Teramoto, and Rudy Raymond.
 </details>
 
 <details>
