@@ -78,7 +78,11 @@ arXiv link: <a href="https://arxiv.org/abs/2307.06009">https://arxiv.org/abs/230
 <details>
 <summary><b> Frédéric Grosshans </b>  <br>Title: Linear Optical Logical Bell Measurements </summary>
 <br>
-Abstract: 
+Abstract: Photonic Bell state measurements (BSMs) are essential for several emerging quantum technologies, from quantum networks to photonic quantum quantum computing. Optimal physical linear-optical (LO) BSMs are known since 1994, but teir efficency is upper bounded by ½. Even without losses and errors —and the latter are unavoidable in practice— it limits their direct technological use. We investigate error-correction based LO-protocols overcoming these challenges and achieving deterministic logical photonic BSMs. In arXiv:2101.11082 we construct a graph-state based logical encoding, which can be produced deterministically with a few quantum emitters, and achieves near-deterministic logical photonic Bell state measurements while also protecting against errors including photon losses, with a record loss-tolerance threshold, beating a previously assumed fundamental bound, which incorrectly assumed single mode measurements to be useless. This led us to investigate fundamental upper bounds to loss-tolerance thresholds in different LO quantum information processing settings, in arXiv:2302.07908. We establish tight loss-tolerance bounds for BSMs depending on the physical measurement they are built of. The three sets of building bricks considered are, from the weakest to the strongest, non-adaptive physical BMs (η₁η₂ > ⅔), adaptive BMs (η₁η₂ > ½), adaptive BSMs and single-qubit measurements (η₁,η₂ > ½), where η₁ and η₂ are the minimal tolerable transmission of each of the input channels of the logical BSM. The last result corresponds to the no-cloning limit, thus establishing linear-optics and adaptivity are enough to achieve best possible loss tolerance for a logical BSM.
+  <br><br>
+arXiv link: <a href="https://arxiv.org/abs/2101.11082">https://arxiv.org/abs/2101.11082</a>
+   <br>
+arXiv link: <a href="https://arxiv.org/abs/2302.07908">https://arxiv.org/abs/2302.07908</a>
 </details>
 
 <details>
