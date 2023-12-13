@@ -51,7 +51,7 @@ nav_order: 3
 <br>[Marco Túlio Quintino](https://mtcq.github.io/) - LIP6/Sorbonne University/CNRS, QI group
 <br>[Bernard Ousmane Sane](https://scholar.google.com/citations?user=YMJbS5wAAAAJ&hl=en) - Keio University
 <br>[Takahiko Satoh](https://aqua.sfc.wide.ad.jp/members) - Keio University
-<br>[Samanvay Sharma](https://aqua.sfc.wide.ad.jp/members) - Keio University, Faculty of Environment and Information Studies
+<br>[Samanvay Sharma](https://aqua.sfc.wide.ad.jp/members) - Keio University, Graduate School of Media and Governance
 <br>[Kento Samuel Soon](https://aqua.sfc.wide.ad.jp/members) - Keio University
 <br>[Akihito Soeda](https://www.nii.ac.jp/en/faculty/informatics/soeda_akihito/) - NII
 <br>[Kento Samuel Soon](https://aqua.sfc.wide.ad.jp/members) - Keio University
@@ -68,4 +68,6 @@ nav_order: 3
 <br>[Hikaru Yokomori](https://aqua.sfc.wide.ad.jp/members) - Keio University
 <br>[Kento Yumoto](https://aqua.sfc.wide.ad.jp/members) - Keio University
 <br>[Satoshi Yoshida](https://www.eve.phys.s.u-tokyo.ac.jp/php/members.php)  - The University of Tokyo, Graduate School of Science
+<br>[Joe Yoshimoto](https://aqua.sfc.wide.ad.jp/members) - Keio University
+
 
