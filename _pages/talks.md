@@ -11,7 +11,8 @@ Click on the names to access the abstract.
 
 
 <details>
-<summary><b> Alastair Abbott</b>  <br>Title: Improving social welfare in non-cooperative games with different types of quantum resources</summary>
+<summary><b> Alastair Abbott</b>  <br>Title: Improving social welfare in non-cooperative games with different types of quantum resources
+<br> <a href="https://github.com/JFQI2023/JFQI2023.github.io/raw/2b2841e8aad28845ad75df3e7d82521283804bd7/assets/pdf/Abbott.pdf">Slides</a>  </summary>
 <br>
 Abstract: We investigate what quantum advantages can be obtained in multipartite non-cooperative games by studying how different types of quantum resources can lead to new Nash equilibria and improve social welfare -- a measure of the quality of an equilibrium. Two different quantum settings are analysed: a first, in which players are given direct access to an entangled quantum state, and a second, which we introduce here, in which they are only given classical advice obtained from quantum devices. For a given game G, these two settings give rise to different equilibria characterised by the sets of equilibrium correlations Qcorr(G) and Q(G), respectively. We show that Q(G)⊆Qcorr(G), and by exploiting the self-testing property of some correlations, that the inclusion is strict for some games G. We make use of SDP optimisation techniques to study how these quantum resources can improve social welfare, obtaining upper and lower bounds on the social welfare reachable in each setting. We investigate, for several games, how the social welfare depends on the bias of the game and improve upon a separation that was previously obtained using pseudo-telepathic solutions.<br><br>
 arXiv link: <a href="https://arxiv.org/abs/2211.01687">https://arxiv.org/abs/2211.01687</a> 
@@ -20,6 +21,7 @@ arXiv link: <a href="https://arxiv.org/abs/2211.01687">https://arxiv.org/abs/221
 
 <details>
 <summary><b> Hiroo Azuma</b>  <br>Title: Generation of a squeezed state using a nonlinear photonic crystal and its application to a heralded single-photon source
+ <br> <a href="https://github.com/JFQI2023/JFQI2023.github.io/raw/2b2841e8aad28845ad75df3e7d82521283804bd7/assets/pdf/Azuma.pdf">Slides</a> 
  </summary>
 <br>
 Abstract: We investigate how to generate squeezed light using a nonlinear photonic crystal. Because the photonic crystal reduces the group velocity of the incident light, if it is composed of a material with a second-order nonlinear optical susceptibility \chi^{(2)}, the interaction between the nonlinear material and the light passing through it strengthens and the quantum state of the emitted light is largely squeezed. Thus, we can generate squeezed light with a resonating cavity where the nonlinear photonic crystal is placed. Transforming this squeezed state into entangled light beams with a beam splitter, we discuss the implementation of a heralded single-photon source. 
@@ -37,7 +39,8 @@ The third and last section will be devoted to introducing some questions that I 
 
 
 <details>
-<summary><b> Naphan Benchasattabuse</b>  <br>Title: Lower Bounds on Number of QAOA Rounds Required for Guaranteed Approximation Ratios</summary>
+<summary><b> Naphan Benchasattabuse</b>  <br>Title: Lower Bounds on Number of QAOA Rounds Required for Guaranteed Approximation Ratios
+ <br> <a href="https://github.com/JFQI2023/JFQI2023.github.io/raw/2b2841e8aad28845ad75df3e7d82521283804bd7/assets/pdf/Benchasattabuse.pdf">Slides</a>  </summary>
 <br>
 Abstract: The quantum alternating operator ansatz (QAOA) is a heuristic hybrid quantum-classical algorithm for finding high-quality approximate solutions to combinatorial optimization problems, such as Maximum Satisfiability. While QAOA is well-studied, theoretical results as to its runtime or approximation ratio guarantees are still relatively sparse. In this talk, I will go over our proof frameworks leveraging a connection between quantum annealing times and the angles of QAOA to derive a lower bound on the number of rounds QAOA required to guarantee (constant) approximation ratio. I will discuss results obtained from applying this proof framework on QAOA with Grover-style mixing unitaries, and show that this type of QAOA requires at least a polynomial number of rounds to guarantee any constant approximation ratios for most problems. For the conventional transverse field mixer, our framework gives a trivial lower bound to all bounded occurrence local cost problems and all strictly k-local cost Hamiltonians matching known results that constant approximation ratio is obtainable with constant round QAOA for a few optimization problems from these classes. With a small modification to our framework, our lower bound applies to any QAOA-style search protocol that starts in the ground state of the mixing unitaries and recovers the Grover lower bound for unstructured search.<br><br>
 arXiv link: <a href="https://arxiv.org/abs/2308.15442">https://arxiv.org/abs/2308.15442</a> 
@@ -59,7 +62,8 @@ Another situation where the causal structure is not fixed a priori is when there
 </details>
 
 <details>
-<summary><b> Paolo Fittipaldi</b>  <br>Title: A Linear Algebraic Framework for Dynamic Scheduling Over Memory-Equipped Quantum Networks </summary>
+<summary><b> Paolo Fittipaldi</b>  <br>Title: A Linear Algebraic Framework for Dynamic Scheduling Over Memory-Equipped Quantum Networks 
+  <br> <a href="https://github.com/JFQI2023/JFQI2023.github.io/raw/2b2841e8aad28845ad75df3e7d82521283804bd7/assets/pdf/Fittipaldi">Slides</a> </summary>
 <br>
 Abstract: Quantum Internetworking is a recent field that promises numerous interesting applications, many of which require the distribution of entanglement between arbitrary pairs of users. In this context, a scheduling policy (i.e. a set of rules that, given some amount of information about the network’s state, provides the correct set of entanglement swapping operations to perform in order to satisfy user requests) is of paramount importance to simultaneously serve multiple pairs of users over complex network topologies.
 In this talk, the problem of scheduling in an arbitrary quantum network is presented in its general topology, multicommodity, loss-aware formulation. We introduce a novel linear algebraic framework that leverages quantum memory and demonstrate how it can be employed to derive a natural class of quadratic scheduling policies for quantum networks. We then illustrate how the framework aids in describing and benchmarking several scheduling policies, with different degrees of localization and information availability. Network performance results such as the average and total user demand are discussed to evaluate the capacity regions of the proposed policies, and to provide example of application of our tools to arbitrary scheduling policies over general quantum networks with topologies of various complexity.
@@ -68,7 +72,8 @@ arXiv link: <a href="https://arxiv.org/abs/2307.06009">https://arxiv.org/abs/230
 </details>
 
 <details>
-<summary><b> Tim Forrer </b>  <br>Title: Efficient bipartite distributed quantum computing </summary>
+<summary><b> Tim Forrer </b>  <br>Title: Efficient bipartite distributed quantum computing 
+ <br> <a href="https://github.com/JFQI2023/JFQI2023.github.io/raw/2b2841e8aad28845ad75df3e7d82521283804bd7/assets/pdf/Forrer.pdf">Slides</a>  </summary>
 <br>
 Abstract: As quantum circuits require ever larger numbers of qubits to perform computations, quantum computers must too possess larger numbers of qubits to match. However scaling the number of qubits in a single quantum computer is a significant challenge. Instead, we propose increasing the number of qubits available for a quantum circuit by combining seperate quantum computers via distributed quantum computing. This is facilitated by the use of entanglement between the two computers, alongside local operations and classical communication. Our proposition is formalised by an algorithm that allows for an efficient, automated distribution of a global circuit between two quantum computers. This algorithm is efficient in two ways - first it aims to minimise the amount of entanglement required to distribute a given circuit, and second it does so in polynomial time. This algorithm can be further extended to the multipartite setting, including a variety of network connections between the quantum computers.
 <br><br>
@@ -140,7 +145,9 @@ arXiv link: <a href="https://arxiv.org/abs/2211.07841">https://arxiv.org/abs/221
 
 
 <details>
-<summary><b> Michal Hajdušek</b>  <br>Title: Advancing quantum architecture</summary>
+<summary><b> Michal Hajdušek</b>  <br>Title: Advancing quantum architecture
+ <br> <a href="https://github.com/JFQI2023/JFQI2023.github.io/raw/2b2841e8aad28845ad75df3e7d82521283804bd7/assets/pdf/Hajdusek.pdf">Slides</a> 
+</summary>
 <br>
 Abstract: In this short talk, I will give a brief overview of recent results and
 ongoing projects at the Advancing Quantum Architecture Group (AQUA) at
@@ -298,9 +305,8 @@ arXiv link: <a href="https://arxiv.org/abs/2305.11212">https://arxiv.org/abs/230
 </details>
 
 <details>
-<summary> <b> Bo Yang</b>  <br> Title: Quantum State Purification with Symmetry Subgroup Projectors </summary>
+<summary> <b> Bo Yang</b>  <br> Title: Quantum State Purification with Symmetry Subgroup Projectors 
+<br> <a href="https://github.com/JFQI2023/JFQI2023.github.io/raw/2b2841e8aad28845ad75df3e7d82521283804bd7/assets/pdf/Yang.pdf">Slides</a> </summary>
 <br>
 Abstract: The future quantum ecosystem will be likely to adopt the client-server model, where the client with limited quantum ability delegates its computation to the server with universal quantum computational ability. Under this scenario, the client may prefer to keep the computation blind against the server and verify the correctness of the outcome. For the case where a client has the ability to prepare and send single-qubit to the server, this is answered by [Fitzsimons and Kashefi, 2012], achieving the blind verification of both quantum and classical inputs and outputs, while requiring fault-tolerance on the server side. Recently, to make [Fitzsimons and Kashefi, 2012] robust to harmless noise without fault-tolerance, [Leichtle, Music, Kashefi, and Ollivier, 2021] provides a robust blind verification for classical inputs and outputs by using the classical majority vote. However, the robust verification of quantum outputs without fault-tolerance in this prepare-and-send model is still an open question. To approach this, we first try to design a quantum state purification gadget that is affordable without fault-tolerance. Particularly, in this work, we provide a gadget that distils multiple noisy quantum states into one purified quantum state by projecting them into their symmetry subspace created by the cyclic group. We also analyse the optimal conditions in the number of state inputs and evaluate the performance through the numerical simulation. Our gadget would find a wide application not only in verification protocols but also in general sampling problems under faulty oracles.
-
-
 </details>
