@@ -206,7 +206,8 @@ Abstract: Supermaps are higher-order transformations taking maps as input.  Quan
 
 
 <details>
-<summary> <b>Ion Nechita</b> <br> Title: Monogamy of highly symmetric states </summary>
+<summary> <b>Ion Nechita</b> <br> Title: Monogamy of highly symmetric states
+<br> <a href="https://github.com/JFQI2023/JFQI2023.github.io/raw/2b2841e8aad28845ad75df3e7d82521283804bd7/assets/pdf/Nechita.pdf">Slides</a> </summary>
 <br>
 Abstract: We study the question of how highly entangled two particles can be when also entangled in a similar way with other particles on the complete graph Kn for the case of Werner, isotropic and Brauer states. We formalize our question as a semidefinite program and then solve this optimization problem analytically, using tools from representation theory. In particular, we determine the exact maximum values p of the projection to the maximally entangled state and antisymmetric Werner state possible, solving long-standing open problems. This is joint work with Rene Allerstorfer, Matthias Christandl, Dmitry Grinko, Maris Ozols, Denis Rochette, and Philip Verduyn Lunel.<br><br>
 arXiv link: <a href="https://arxiv.org/abs/2309.16655">https://arxiv.org/abs/2309.16655</a>
@@ -221,7 +222,8 @@ arXiv link: <a href="https://arxiv.org/abs/2303.09788">https://arxiv.org/abs/230
 </details>
 
 <details>
-<summary><b> Pierre Pocreau</b>  <br>Title: Quantum Query Complexity of Boolean Functions under Indefinite Causal Order </summary>
+<summary><b> Pierre Pocreau</b>  <br>Title: Quantum Query Complexity of Boolean Functions under Indefinite Causal Order
+<br> <a href="https://github.com/JFQI2023/JFQI2023.github.io/raw/2b2841e8aad28845ad75df3e7d82521283804bd7/assets/pdf/Pocreau.pdf">Slides</a> </summary>
 <br>
 Abstract: The standard model of quantum circuits assumes operations are applied in a fixed sequential
 “causal” order. In recent years, the possibility of relaxing this constraint to obtain causally in-
