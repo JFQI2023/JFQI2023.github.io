@@ -165,7 +165,8 @@ arXiv link: <a href="https://arxiv.org/abs/2205.01899">https://arxiv.org/abs/220
 </details>
 
 <details>
-<summary><b> Uta Isabella Meyer</b>  <br>Title: Non-locality from Wigner Negativity in Qudit Stabilizer States </summary>
+<summary><b> Uta Isabella Meyer</b>  <br>Title: Non-locality from Wigner Negativity in Qudit Stabilizer States
+<br>[Slides](https://github.com/JFQI2023/JFQI2023.github.io/raw/2b2841e8aad28845ad75df3e7d82521283804bd7/assets/pdf/Meyer.pdf)</summary>
 <br>
 Abstract: Contextuality and non-locality serve as crucial tools for
 distinguishing quantum from classical systems and have been extensively
