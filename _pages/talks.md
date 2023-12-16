@@ -49,7 +49,9 @@ arXiv link: <a href="https://arxiv.org/abs/2308.15442">https://arxiv.org/abs/230
 </details>
 
 <details>
-<summary><b> Francesco Buscemi</b>  <br>Title: Incompatible incompatibilities, and how to make them compatible again </summary>
+<summary><b> Francesco Buscemi</b>  <br>Title: Incompatible incompatibilities, and how to make them compatible again 
+ <br> <a href="https://github.com/JFQI2023/JFQI2023.github.io/raw/master/assets/pdf/Buscemi.pdf">Slides</a>
+</summary>
 <br>
 Abstract: While there is a generally accepted definition of incompatibility for POVMs, two possible extensions for instruments are found in the literature, sometimes called "classical incompatibility" and "parallel incompatibility", which are logically inequivalent and have been the source of debate and confusion. Here we resolve this tension by introducing a new, operationally motivated notion, "q-incompatibility", which again reduces to the correct definition for POVMs, but is able to accommodate both classical and parallel incompatibilities in a unified resource-theoretic framework. Finally, we consider another notion of instrument incompatibility, which we call "exclusivity", in which the order of the measurements is the crucial ingredient. This is joint work with Kodai Kobayashi, Shintaro Minagawa, Paolo Perinotti, and Alessandro Tosini. <br><br>
 arXiv link: <a href="https://arxiv.org/abs/2211.09226">https://arxiv.org/abs/2211.09226</a> 
@@ -64,7 +66,9 @@ Another situation where the causal structure is not fixed a priori is when there
 </details>
 
 <details>
-<summary><b> Paolo Fittipaldi</b>  <br>Title: A Linear Algebraic Framework for Dynamic Scheduling Over Memory-Equipped Quantum Networks </summary>
+<summary><b> Paolo Fittipaldi</b>  <br>Title: A Linear Algebraic Framework for Dynamic Scheduling Over Memory-Equipped Quantum Networks
+<br> <a href="https://github.com/JFQI2023/JFQI2023.github.io/raw/master/assets/pdf/Fittipaldi.pdf">Slides</a>
+</summary>
 <br>
 Abstract: Quantum Internetworking is a recent field that promises numerous interesting applications, many of which require the distribution of entanglement between arbitrary pairs of users. In this context, a scheduling policy (i.e. a set of rules that, given some amount of information about the network’s state, provides the correct set of entanglement swapping operations to perform in order to satisfy user requests) is of paramount importance to simultaneously serve multiple pairs of users over complex network topologies.
 In this talk, the problem of scheduling in an arbitrary quantum network is presented in its general topology, multicommodity, loss-aware formulation. We introduce a novel linear algebraic framework that leverages quantum memory and demonstrate how it can be employed to derive a natural class of quadratic scheduling policies for quantum networks. We then illustrate how the framework aids in describing and benchmarking several scheduling policies, with different degrees of localization and information availability. Network performance results such as the average and total user demand are discussed to evaluate the capacity regions of the proposed policies, and to provide example of application of our tools to arbitrary scheduling policies over general quantum networks with topologies of various complexity.
@@ -145,7 +149,9 @@ arXiv link: <a href="https://arxiv.org/abs/2211.07841">https://arxiv.org/abs/221
 
 
 <details>
-<summary><b> Michal Hajdušek</b>  <br>Title: Advancing quantum architecture</summary>
+<summary><b> Michal Hajdušek</b>  <br>Title: Advancing quantum architecture
+<br> <a href="https://github.com/JFQI2023/JFQI2023.github.io/raw/master/assets/pdf/Hajdusek.pdf">Slides</a>
+</summary>
 <br>
 Abstract: In this short talk, I will give a brief overview of recent results and
 ongoing projects at the Advancing Quantum Architecture Group (AQUA) at
@@ -305,7 +311,9 @@ arXiv link: <a href="https://arxiv.org/abs/2305.11212">https://arxiv.org/abs/230
 </details>
 
 <details>
-<summary> <b> Bo Yang</b>  <br> Title: Quantum State Purification with Symmetry Subgroup Projectors </summary>
+<summary> <b> Bo Yang</b>  <br> Title: Quantum State Purification with Symmetry Subgroup Projectors 
+<br> <a href="https://github.com/JFQI2023/JFQI2023.github.io/raw/master/assets/pdf/Yang.pdf">Slides</a>
+</summary>
 <br>
 Abstract: The future quantum ecosystem will be likely to adopt the client-server model, where the client with limited quantum ability delegates its computation to the server with universal quantum computational ability. Under this scenario, the client may prefer to keep the computation blind against the server and verify the correctness of the outcome. For the case where a client has the ability to prepare and send single-qubit to the server, this is answered by [Fitzsimons and Kashefi, 2012], achieving the blind verification of both quantum and classical inputs and outputs, while requiring fault-tolerance on the server side. Recently, to make [Fitzsimons and Kashefi, 2012] robust to harmless noise without fault-tolerance, [Leichtle, Music, Kashefi, and Ollivier, 2021] provides a robust blind verification for classical inputs and outputs by using the classical majority vote. However, the robust verification of quantum outputs without fault-tolerance in this prepare-and-send model is still an open question. To approach this, we first try to design a quantum state purification gadget that is affordable without fault-tolerance. Particularly, in this work, we provide a gadget that distils multiple noisy quantum states into one purified quantum state by projecting them into their symmetry subspace created by the cyclic group. We also analyse the optimal conditions in the number of state inputs and evaluate the performance through the numerical simulation. Our gadget would find a wide application not only in verification protocols but also in general sampling problems under faulty oracles.
 
