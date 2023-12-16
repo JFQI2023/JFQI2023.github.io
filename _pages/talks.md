@@ -275,9 +275,23 @@ Abstract: Global operations between network nodes are crucial to achieve any ben
 </details>
 
 <details>
-<summary> <b>Ivan Šupić</b> <br> Title: Quantum networks aid certification of quantum resources </summary>
+<summary> <b>Ivan Šupić</b> <br> Title: All pure multipartite entangled states of qubits can be
+self-tested
+<br> <a href="https://github.com/JFQI2023/JFQI2023.github.io/raw/master/assets/pdf/Supic.pdf">Slides</a>
+</summary>
 <br>
-Abstract: In this talk I will explain how quantum network architecture together with self-testing techniques can aid certification of various quantum resources. In particular, I will discuss device-independent protocols for universal entanglement certification, a self-testing result that can be applied to all pure entangled quantum states, and network-device-independent certification of causal nonseparability.
+abstract: In this talk, I give a complete characterization of
+self-testing in the multipartite qubit case.
+While the bipartite case has been completely characterized for states of
+any local dimension, little
+is known for the multipartite case. One important difference is that,
+while in the bipartite case all
+states are equivalent, up to local isometries, to their complex
+conjugates in any basis, this is not
+true in the multipartite case. Here, for any pure qubit entangled state
+I show a correlation that self-tests it, i.e. allows to construct an
+isometry mapping the state achieving the correlations to the coherent
+superposition of the target state and its complex conjugate.
 </details>
 
 <details>
