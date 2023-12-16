@@ -11,8 +11,7 @@ Click on the names to access the abstract.
 
 
 <details>
-<summary><b> Alastair Abbott</b>  <br>Title: Improving social welfare in non-cooperative games with different types of quantum resources
-<br> <a href="https://github.com/JFQI2023/JFQI2023.github.io/raw/master/assets/pdf/Abbott.pdf">Slides</a>
+<summary><b> Alastair Abbott</b>  -- <a href="https://github.com/JFQI2023/JFQI2023.github.io/raw/master/assets/pdf/Abbott.pdf">Slides</a> <br>Title: Improving social welfare in non-cooperative games with different types of quantum resources
 </summary>
 <br>
 Abstract: We investigate what quantum advantages can be obtained in multipartite non-cooperative games by studying how different types of quantum resources can lead to new Nash equilibria and improve social welfare -- a measure of the quality of an equilibrium. Two different quantum settings are analysed: a first, in which players are given direct access to an entangled quantum state, and a second, which we introduce here, in which they are only given classical advice obtained from quantum devices. For a given game G, these two settings give rise to different equilibria characterised by the sets of equilibrium correlations Qcorr(G) and Q(G), respectively. We show that Q(G)⊆Qcorr(G), and by exploiting the self-testing property of some correlations, that the inclusion is strict for some games G. We make use of SDP optimisation techniques to study how these quantum resources can improve social welfare, obtaining upper and lower bounds on the social welfare reachable in each setting. We investigate, for several games, how the social welfare depends on the bias of the game and improve upon a separation that was previously obtained using pseudo-telepathic solutions.<br><br>
@@ -21,8 +20,7 @@ arXiv link: <a href="https://arxiv.org/abs/2211.01687">https://arxiv.org/abs/221
 
 
 <details>
-<summary><b> Hiroo Azuma</b>  <br>Title: Generation of a squeezed state using a nonlinear photonic crystal and its application to a heralded single-photon source
- <br> <a href="https://github.com/JFQI2023/JFQI2023.github.io/raw/master/assets/pdf/Azuma.pdf">Slides</a>
+<summary><b> Hiroo Azuma</b> --  <a href="https://github.com/JFQI2023/JFQI2023.github.io/raw/master/assets/pdf/Azuma.pdf">Slides</a>  <br>Title: Generation of a squeezed state using a nonlinear photonic crystal and its application to a heralded single-photon source
  </summary>
 <br>
 Abstract: We investigate how to generate squeezed light using a nonlinear photonic crystal. Because the photonic crystal reduces the group velocity of the incident light, if it is composed of a material with a second-order nonlinear optical susceptibility \chi^{(2)}, the interaction between the nonlinear material and the light passing through it strengthens and the quantum state of the emitted light is largely squeezed. Thus, we can generate squeezed light with a resonating cavity where the nonlinear photonic crystal is placed. Transforming this squeezed state into entangled light beams with a beam splitter, we discuss the implementation of a heralded single-photon source. 
@@ -40,8 +38,7 @@ The third and last section will be devoted to introducing some questions that I 
 
 
 <details>
-<summary><b> Naphan Benchasattabuse</b>  <br>Title: Lower Bounds on Number of QAOA Rounds Required for Guaranteed Approximation Ratios
-<br> <a href="https://github.com/JFQI2023/JFQI2023.github.io/raw/master/assets/pdf/Benchasattabuse.pdf">Slides</a>
+<summary><b> Naphan Benchasattabuse</b> -- <a href="https://github.com/JFQI2023/JFQI2023.github.io/raw/master/assets/pdf/Benchasattabuse.pdf">Slides</a> <br>Title: Lower Bounds on Number of QAOA Rounds Required for Guaranteed Approximation Ratios
 </summary>
 <br>
 Abstract: The quantum alternating operator ansatz (QAOA) is a heuristic hybrid quantum-classical algorithm for finding high-quality approximate solutions to combinatorial optimization problems, such as Maximum Satisfiability. While QAOA is well-studied, theoretical results as to its runtime or approximation ratio guarantees are still relatively sparse. In this talk, I will go over our proof frameworks leveraging a connection between quantum annealing times and the angles of QAOA to derive a lower bound on the number of rounds QAOA required to guarantee (constant) approximation ratio. I will discuss results obtained from applying this proof framework on QAOA with Grover-style mixing unitaries, and show that this type of QAOA requires at least a polynomial number of rounds to guarantee any constant approximation ratios for most problems. For the conventional transverse field mixer, our framework gives a trivial lower bound to all bounded occurrence local cost problems and all strictly k-local cost Hamiltonians matching known results that constant approximation ratio is obtainable with constant round QAOA for a few optimization problems from these classes. With a small modification to our framework, our lower bound applies to any QAOA-style search protocol that starts in the ground state of the mixing unitaries and recovers the Grover lower bound for unstructured search.<br><br>
@@ -49,8 +46,8 @@ arXiv link: <a href="https://arxiv.org/abs/2308.15442">https://arxiv.org/abs/230
 </details>
 
 <details>
-<summary><b> Francesco Buscemi</b>  <br>Title: Incompatible incompatibilities, and how to make them compatible again 
- <br> <a href="https://github.com/JFQI2023/JFQI2023.github.io/raw/master/assets/pdf/Buscemi.pdf">Slides</a>
+<summary><b> Francesco Buscemi</b> --  <a href="https://github.com/JFQI2023/JFQI2023.github.io/raw/master/assets/pdf/Buscemi.pdf">Slides</a>  <br>Title: Incompatible incompatibilities, and how to make them compatible again 
+
 </summary>
 <br>
 Abstract: While there is a generally accepted definition of incompatibility for POVMs, two possible extensions for instruments are found in the literature, sometimes called "classical incompatibility" and "parallel incompatibility", which are logically inequivalent and have been the source of debate and confusion. Here we resolve this tension by introducing a new, operationally motivated notion, "q-incompatibility", which again reduces to the correct definition for POVMs, but is able to accommodate both classical and parallel incompatibilities in a unified resource-theoretic framework. Finally, we consider another notion of instrument incompatibility, which we call "exclusivity", in which the order of the measurements is the crucial ingredient. This is joint work with Kodai Kobayashi, Shintaro Minagawa, Paolo Perinotti, and Alessandro Tosini. <br><br>
@@ -66,8 +63,7 @@ Another situation where the causal structure is not fixed a priori is when there
 </details>
 
 <details>
-<summary><b> Paolo Fittipaldi</b>  <br>Title: A Linear Algebraic Framework for Dynamic Scheduling Over Memory-Equipped Quantum Networks
-<br> <a href="https://github.com/JFQI2023/JFQI2023.github.io/raw/master/assets/pdf/Fittipaldi.pdf">Slides</a>
+<summary><b> Paolo Fittipaldi</b>  --  <a href="https://github.com/JFQI2023/JFQI2023.github.io/raw/master/assets/pdf/Fittipaldi.pdf">Slides</a> <br>Title: A Linear Algebraic Framework for Dynamic Scheduling Over Memory-Equipped Quantum Networks
 </summary>
 <br>
 Abstract: Quantum Internetworking is a recent field that promises numerous interesting applications, many of which require the distribution of entanglement between arbitrary pairs of users. In this context, a scheduling policy (i.e. a set of rules that, given some amount of information about the network’s state, provides the correct set of entanglement swapping operations to perform in order to satisfy user requests) is of paramount importance to simultaneously serve multiple pairs of users over complex network topologies.
@@ -77,7 +73,7 @@ arXiv link: <a href="https://arxiv.org/abs/2307.06009">https://arxiv.org/abs/230
 </details>
 
 <details>
-<summary><b> Tim Forrer </b>  <br>Title: Efficient bipartite distributed quantum computing </summary>
+<summary><b> Tim Forrer </b>  --  <a href="https://github.com/JFQI2023/JFQI2023.github.io/raw/master/assets/pdf/Forrer.pdf">Slides</a><br>Title: Efficient bipartite distributed quantum computing </summary>
 <br>
 Abstract: As quantum circuits require ever larger numbers of qubits to perform computations, quantum computers must too possess larger numbers of qubits to match. However scaling the number of qubits in a single quantum computer is a significant challenge. Instead, we propose increasing the number of qubits available for a quantum circuit by combining seperate quantum computers via distributed quantum computing. This is facilitated by the use of entanglement between the two computers, alongside local operations and classical communication. Our proposition is formalised by an algorithm that allows for an efficient, automated distribution of a global circuit between two quantum computers. This algorithm is efficient in two ways - first it aims to minimise the amount of entanglement required to distribute a given circuit, and second it does so in polynomial time. This algorithm can be further extended to the multipartite setting, including a variety of network connections between the quantum computers.
 <br><br>
@@ -149,8 +145,7 @@ arXiv link: <a href="https://arxiv.org/abs/2211.07841">https://arxiv.org/abs/221
 
 
 <details>
-<summary><b> Michal Hajdušek</b>  <br>Title: Advancing quantum architecture
-<br> <a href="https://github.com/JFQI2023/JFQI2023.github.io/raw/master/assets/pdf/Hajdusek.pdf">Slides</a>
+<summary><b> Michal Hajdušek</b>  --  <a href="https://github.com/JFQI2023/JFQI2023.github.io/raw/master/assets/pdf/Hajdusek.pdf">Slides</a> <br>Title: Advancing quantum architecture
 </summary>
 <br>
 Abstract: In this short talk, I will give a brief overview of recent results and
@@ -176,8 +171,7 @@ arXiv link: <a href="https://arxiv.org/abs/2205.01899">https://arxiv.org/abs/220
 </details>
 
 <details>
-<summary><b> Uta Isabella Meyer</b>  <br>Title: Non-locality from Wigner Negativity in Qudit Stabilizer States
-<br> <a href="https://github.com/JFQI2023/JFQI2023.github.io/raw/master/assets/pdf/Meyer.pdf">Slides</a>
+<summary><b> Uta Isabella Meyer</b>  --   <a href="https://github.com/JFQI2023/JFQI2023.github.io/raw/master/assets/pdf/Meyer.pdf">Slides</a> <br>Title: Non-locality from Wigner Negativity in Qudit Stabilizer States
 </summary>
 <br>
 Abstract: Contextuality and non-locality serve as crucial tools for
@@ -218,8 +212,7 @@ Abstract: Supermaps are higher-order transformations taking maps as input.  Quan
 
 
 <details>
-<summary> <b>Ion Nechita</b> <br> Title: Monogamy of highly symmetric states
-<br> <a href="https://github.com/JFQI2023/JFQI2023.github.io/raw/master/assets/pdf/Nechita.pdf">Slides</a>
+<summary> <b>Ion Nechita</b>  --  <a href="https://github.com/JFQI2023/JFQI2023.github.io/raw/master/assets/pdf/Nechita.pdf">Slides</a><br> Title: Monogamy of highly symmetric states
  </summary>
 <br>
 Abstract: We study the question of how highly entangled two particles can be when also entangled in a similar way with other particles on the complete graph Kn for the case of Werner, isotropic and Brauer states. We formalize our question as a semidefinite program and then solve this optimization problem analytically, using tools from representation theory. In particular, we determine the exact maximum values p of the projection to the maximally entangled state and antisymmetric Werner state possible, solving long-standing open problems. This is joint work with Rene Allerstorfer, Matthias Christandl, Dmitry Grinko, Maris Ozols, Denis Rochette, and Philip Verduyn Lunel.<br><br>
@@ -235,8 +228,7 @@ arXiv link: <a href="https://arxiv.org/abs/2303.09788">https://arxiv.org/abs/230
 </details>
 
 <details>
-<summary><b> Pierre Pocreau</b>  <br>Title: Quantum Query Complexity of Boolean Functions under Indefinite Causal Order
-<br> <a href="https://github.com/JFQI2023/JFQI2023.github.io/raw/master/assets/pdf/Pocreau.pdf">Slides</a> </summary>
+<summary><b> Pierre Pocreau</b>  --  <a href="https://github.com/JFQI2023/JFQI2023.github.io/raw/master/assets/pdf/Pocreau.pdf">Slides</a> <br>Title: Quantum Query Complexity of Boolean Functions under Indefinite Causal Order </summary>
 <br>
 Abstract: The standard model of quantum circuits assumes operations are applied in a fixed sequential
 “causal” order. In recent years, the possibility of relaxing this constraint to obtain causally in-
@@ -275,9 +267,8 @@ Abstract: Global operations between network nodes are crucial to achieve any ben
 </details>
 
 <details>
-<summary> <b>Ivan Šupić</b> <br> Title: All pure multipartite entangled states of qubits can be
+<summary> <b>Ivan Šupić</b>  --  <a href="https://github.com/JFQI2023/JFQI2023.github.io/raw/master/assets/pdf/Supic.pdf">Slides</a> <br> Title: All pure multipartite entangled states of qubits can be
 self-tested
-<br> <a href="https://github.com/JFQI2023/JFQI2023.github.io/raw/master/assets/pdf/Supic.pdf">Slides</a>
 </summary>
 <br>
 abstract: In this talk, I give a complete characterization of
@@ -325,11 +316,8 @@ arXiv link: <a href="https://arxiv.org/abs/2305.11212">https://arxiv.org/abs/230
 </details>
 
 <details>
-<summary> <b> Bo Yang</b>  <br> Title: Quantum State Purification with Symmetry Subgroup Projectors 
-<br> <a href="https://github.com/JFQI2023/JFQI2023.github.io/raw/master/assets/pdf/Yang.pdf">Slides</a>
+<summary> <b> Bo Yang</b> -- <a href="https://github.com/JFQI2023/JFQI2023.github.io/raw/master/assets/pdf/Yang.pdf">Slides</a>  <br> Title: Quantum State Purification with Symmetry Subgroup Projectors 
 </summary>
 <br>
 Abstract: The future quantum ecosystem will be likely to adopt the client-server model, where the client with limited quantum ability delegates its computation to the server with universal quantum computational ability. Under this scenario, the client may prefer to keep the computation blind against the server and verify the correctness of the outcome. For the case where a client has the ability to prepare and send single-qubit to the server, this is answered by [Fitzsimons and Kashefi, 2012], achieving the blind verification of both quantum and classical inputs and outputs, while requiring fault-tolerance on the server side. Recently, to make [Fitzsimons and Kashefi, 2012] robust to harmless noise without fault-tolerance, [Leichtle, Music, Kashefi, and Ollivier, 2021] provides a robust blind verification for classical inputs and outputs by using the classical majority vote. However, the robust verification of quantum outputs without fault-tolerance in this prepare-and-send model is still an open question. To approach this, we first try to design a quantum state purification gadget that is affordable without fault-tolerance. Particularly, in this work, we provide a gadget that distils multiple noisy quantum states into one purified quantum state by projecting them into their symmetry subspace created by the cyclic group. We also analyse the optimal conditions in the number of state inputs and evaluate the performance through the numerical simulation. Our gadget would find a wide application not only in verification protocols but also in general sampling problems under faulty oracles.
-
-
 </details>
