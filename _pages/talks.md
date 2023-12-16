@@ -22,6 +22,7 @@ arXiv link: <a href="https://arxiv.org/abs/2211.01687">https://arxiv.org/abs/221
 
 <details>
 <summary><b> Hiroo Azuma</b>  <br>Title: Generation of a squeezed state using a nonlinear photonic crystal and its application to a heralded single-photon source
+ <br> <a href="https://github.com/JFQI2023/JFQI2023.github.io/raw/master/assets/pdf/Azuma.pdf">Slides</a>
  </summary>
 <br>
 Abstract: We investigate how to generate squeezed light using a nonlinear photonic crystal. Because the photonic crystal reduces the group velocity of the incident light, if it is composed of a material with a second-order nonlinear optical susceptibility \chi^{(2)}, the interaction between the nonlinear material and the light passing through it strengthens and the quantum state of the emitted light is largely squeezed. Thus, we can generate squeezed light with a resonating cavity where the nonlinear photonic crystal is placed. Transforming this squeezed state into entangled light beams with a beam splitter, we discuss the implementation of a heralded single-photon source. 
@@ -39,7 +40,9 @@ The third and last section will be devoted to introducing some questions that I 
 
 
 <details>
-<summary><b> Naphan Benchasattabuse</b>  <br>Title: Lower Bounds on Number of QAOA Rounds Required for Guaranteed Approximation Ratios</summary>
+<summary><b> Naphan Benchasattabuse</b>  <br>Title: Lower Bounds on Number of QAOA Rounds Required for Guaranteed Approximation Ratios
+<br> <a href="https://github.com/JFQI2023/JFQI2023.github.io/raw/master/assets/pdf/Benchasattabuse.pdf">Slides</a>
+</summary>
 <br>
 Abstract: The quantum alternating operator ansatz (QAOA) is a heuristic hybrid quantum-classical algorithm for finding high-quality approximate solutions to combinatorial optimization problems, such as Maximum Satisfiability. While QAOA is well-studied, theoretical results as to its runtime or approximation ratio guarantees are still relatively sparse. In this talk, I will go over our proof frameworks leveraging a connection between quantum annealing times and the angles of QAOA to derive a lower bound on the number of rounds QAOA required to guarantee (constant) approximation ratio. I will discuss results obtained from applying this proof framework on QAOA with Grover-style mixing unitaries, and show that this type of QAOA requires at least a polynomial number of rounds to guarantee any constant approximation ratios for most problems. For the conventional transverse field mixer, our framework gives a trivial lower bound to all bounded occurrence local cost problems and all strictly k-local cost Hamiltonians matching known results that constant approximation ratio is obtainable with constant round QAOA for a few optimization problems from these classes. With a small modification to our framework, our lower bound applies to any QAOA-style search protocol that starts in the ground state of the mixing unitaries and recovers the Grover lower bound for unstructured search.<br><br>
 arXiv link: <a href="https://arxiv.org/abs/2308.15442">https://arxiv.org/abs/2308.15442</a> 
