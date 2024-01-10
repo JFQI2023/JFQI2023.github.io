@@ -30,7 +30,7 @@ arXiv link: <a href="https://arxiv.org/abs/2304.11373">https://arxiv.org/abs/230
 
 
 <details>
-<summary><b> Adriano Barile</b>  <br>Title: Different Approaches Towards Formalizing and Optimizing Reversible and Quantum Circuits </summary>
+<summary><b> Adriano Barile</b> --  <a href="https://github.com/JFQI2023/JFQI2023.github.io/raw/master/assets/pdf/Barile.pdf">Slides</a>   <br>Title: Different Approaches Towards Formalizing and Optimizing Reversible and Quantum Circuits </summary>
 <br>
 Abstract: The talk will be focused on different approaches of scientific inquiry on some of the issues posed by the theory of the synthesis of Reversible Boolean and Quantum Circuits. The first approach is mostly mathematical, and it concerns what it means to formalize a circuit as a 2-dimensional grammar using the (arguably) cumbersome but (arguably) elegant language of category theory, with the goal of defining a "shortest normal form" for reversible/quantum circuits given a set of rewriting rules. The second approach shows what could happen if we get rid of the logical inner workings of a circuit and want to compress a quantum circuit by approximating it as an operator in a metric space - in particular, the advantages and the shortcomings of methods such as Approximate Quantum Compiling will be presented.
 The third and last section will be devoted to introducing some questions that I aim to answer in the period at NII: namely, the classification of ancillae in view of reaching optimal space consumption in Reversible and Quantum circuits, and the search for explicit reversibilization methods.
@@ -91,7 +91,7 @@ arXiv link: <a href="https://arxiv.org/abs/2302.07908">https://arxiv.org/abs/230
 </details>
 
 <details>
-<summary><b> Hiroshi Imai</b>  <br>Title: Quantum Machine Learning and Optimization on Real Devices </summary>
+<summary><b> Hiroshi Imai</b> --  <a href="https://github.com/JFQI2023/JFQI2023.github.io/raw/master/assets/pdf/Imai.pdf">Slides</a>  <br>Title: Quantum Machine Learning and Optimization on Real Devices </summary>
 <br>
 Abstract: Quantum Machine Learning and Quantum Optimization are two of promising problems which may be implemented and have impact to real-world applications by using near-term quantum computers.  In this talk we review recent research results of our laboratory members, especially
  <br>* Distributed Coordinate Descent Algorithm for Variational Quantum Classification
